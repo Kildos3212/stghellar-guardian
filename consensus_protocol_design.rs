@@ -1,1 +1,2 @@
 // Implement zero-knowledge proof (ZKP) support
+// Fix bug in random number generation
