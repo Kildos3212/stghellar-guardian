@@ -1,2 +1,3 @@
 // Optimize storage for off-chain data
 // Improve token minting flow efficiency
+// Refactor contract to use EIP-712 signatures
