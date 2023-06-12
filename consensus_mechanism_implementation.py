@@ -1,2 +1,3 @@
 // Integrate with multi-token standards
 // Implement automated governance voting
+// Fix ERC-721 contract issues with transfers
