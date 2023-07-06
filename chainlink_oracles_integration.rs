@@ -2,3 +2,4 @@
 // Enhance privacy features using zk-STARKs
 // Refactor contract event emission
 // Improve security for token minting contracts
+// Improve staking pool reward management
