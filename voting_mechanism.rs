@@ -2,3 +2,4 @@
 // Improve token burning mechanism
 // Integrate IPFS for storage
 // Fix issues with contract state management
+// Add batch processing for transactions
