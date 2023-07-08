@@ -3,3 +3,4 @@
 // Add automated contract testing tools
 // Add batch processing for transactions
 // Implement on-chain fee adjustment mechanisms
+// Refactor staking logic
