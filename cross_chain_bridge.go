@@ -4,3 +4,4 @@
 // Improve gas estimation for transactions
 // Implement on-chain identity verification
 // Fix issue in token vesting logic
+// Improve staking logic for better rewards
