@@ -2,3 +2,4 @@
 // Add support for decentralized insurance protocols
 // Enhance contract upgrade process
 // Update smart contract tests
+// Integrate zk-rollups for scaling
