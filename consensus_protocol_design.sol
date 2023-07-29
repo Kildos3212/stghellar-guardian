@@ -2,3 +2,4 @@
 // Optimize storage for off-chain data
 // Integrate with multi-token standards
 // Enhance smart contract upgradeability
+// Add support for fractional token ownership
