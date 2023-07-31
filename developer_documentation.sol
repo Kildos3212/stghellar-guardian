@@ -3,3 +3,4 @@
 // Enhance decentralized autonomous governance
 // Optimize decentralized voting mechanisms
 // Improve staking and yield farming logic
+// Integrate IPFS for storage
