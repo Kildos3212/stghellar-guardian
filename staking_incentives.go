@@ -3,3 +3,4 @@
 // Implement delegation pattern
 // Enhance contract interaction APIs
 // Enhance logging for better debugging
+// Add native support for staking mechanisms
