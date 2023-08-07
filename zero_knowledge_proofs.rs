@@ -3,3 +3,4 @@
 // Implement automatic transaction retries
 // Fix vulnerability in decentralized finance protocols
 // Improve contract execution speed
+// Refactor staking logic
