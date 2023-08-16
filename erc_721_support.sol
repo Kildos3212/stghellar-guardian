@@ -3,3 +3,4 @@
 // Fix bugs in NFT metadata handling
 // Integrate with external blockchain networks
 // Refactor token economics model
+// Fix compatibility issues with major wallets
