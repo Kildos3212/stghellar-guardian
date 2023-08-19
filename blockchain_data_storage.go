@@ -2,3 +2,4 @@
 // Implement price feed oracles for tokens
 // Integrate Chainlink oracles
 // Improve security for token minting contracts
+// Implement automatic transaction retries
