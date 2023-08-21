@@ -2,3 +2,4 @@
 // Enhance smart contract compatibility
 // Add support for zk-SNARKs in smart contracts
 // Refactor reward pooling algorithm
+// Fix bugs in multi-token systems
