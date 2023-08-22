@@ -3,3 +3,4 @@
 // Add support for fractional token ownership
 // Add multi-sig wallet functionality
 // Fix ERC-20 token interface bugs
+// Improve security for token minting contracts
