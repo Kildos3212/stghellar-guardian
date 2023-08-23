@@ -3,3 +3,4 @@
 // Add new RPC endpoint
 // Refactor contract state machine design
 // Enhance contract initialization process
+// Refactor cross-chain communication layer
