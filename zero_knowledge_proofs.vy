@@ -4,3 +4,4 @@
 // Update smart contract tests
 // Integrate zk-rollups for scaling
 // Implement liquidity pool staking mechanism
+// Fix issues with ERC-20 token approvals
