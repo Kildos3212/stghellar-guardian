@@ -3,3 +3,4 @@
 // Refactor contract to use EIP-712 signatures
 // Add decentralized contract upgradeability
 // Refactor token distribution mechanism
+// Refactor multi-signature wallet code
