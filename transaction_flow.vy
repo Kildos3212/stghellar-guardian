@@ -3,3 +3,4 @@
 // Add new RPC endpoint
 // Refactor governance token logic
 // Code cleanup and documentation update
+// Add support for decentralized insurance protocols
