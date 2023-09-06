@@ -2,3 +2,4 @@
 // Fix issue with multi-chain transactions
 // Enhance smart contract compatibility
 // Enhance security checks
+// Refactor reward pooling algorithm
