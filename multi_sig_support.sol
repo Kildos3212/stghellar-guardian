@@ -2,3 +2,4 @@
 // Fix security vulnerability in random number generation
 // Implement a new contract event system
 // Fix overflow bug in token calculation
+// Fix type mismatch in Haskell smart contract
