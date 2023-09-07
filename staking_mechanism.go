@@ -4,3 +4,4 @@
 // Fix issues with contract state management
 // Add support for ERC-1155 tokens
 // Fix transaction replay issue
+// Add multi-sig wallet functionality
