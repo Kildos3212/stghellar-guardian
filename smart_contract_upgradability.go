@@ -4,3 +4,4 @@
 // Integrate decentralized anonymous identity systems
 // Fix issues with contract state management
 // Add dynamic contract fees
+// Add governance proposal expiration feature
