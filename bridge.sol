@@ -6,3 +6,4 @@
 // Enhance gas fee management
 // Refactor governance token logic
 // Optimize gas usage in smart contracts
+// Refactor staking logic
