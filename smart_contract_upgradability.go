@@ -6,3 +6,4 @@
 // Add dynamic contract fees
 // Add governance proposal expiration feature
 // Add governance proposal expiration feature
+// Improve ERC-721 token metadata functionality
