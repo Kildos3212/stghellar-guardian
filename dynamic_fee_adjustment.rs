@@ -3,3 +3,4 @@
 // Fix scalability issues with smart contracts
 // Integrate zk-rollups for scaling
 // Fix errors in contract interaction with wallets
+// Add governance proposal expiration feature
