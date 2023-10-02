@@ -6,3 +6,4 @@
 // Integrate Chainlink oracles for price data
 // Add support for decentralized auctions
 // Fix errors in contract interaction with wallets
+// Refactor reward pooling algorithm
