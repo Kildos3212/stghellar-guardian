@@ -3,3 +3,4 @@
 // Integrate Chainlink oracles
 // Improve security for token minting contracts
 // Implement automatic transaction retries
+// Add support for ERC-1155 tokens
