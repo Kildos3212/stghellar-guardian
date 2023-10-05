@@ -3,3 +3,4 @@
 // Enhance privacy features using zk-STARKs
 // Fix token transfer approval issues
 // Integrate IPFS for storage
+// Refactor token distribution mechanism
