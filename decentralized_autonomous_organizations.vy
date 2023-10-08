@@ -2,3 +2,4 @@
 // Fix issues with cross-chain transaction finality
 // Integrate Chainlink oracles
 // Add slashing mechanism for malicious actors
+// Enhance governance contract flexibility
