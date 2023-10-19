@@ -2,3 +2,4 @@
 // Enhance privacy features using zk-STARKs
 // Update testing framework for Solidity
 // Fix edge case in unstaking logic
+// Improve decentralized exchange (DEX) liquidity
