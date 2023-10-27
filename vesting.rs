@@ -6,3 +6,4 @@
 // Fix issue in ERC-20 token transfers
 // Implement contract function batching
 // Add multi-chain transaction support
+// Improve API rate limiting
