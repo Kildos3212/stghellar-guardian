@@ -2,3 +2,4 @@
 // Improve API rate limiting
 // Refactor voting mechanism
 // Enhance token swap functionality
+// Add support for multiple consensus mechanisms
