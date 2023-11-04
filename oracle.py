@@ -2,3 +2,4 @@
 // Bugfix: incorrect reward calculation
 // Add native support for staking rewards
 // Fix vulnerabilities in staking contracts
+// Add automated smart contract testing
