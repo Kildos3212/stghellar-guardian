@@ -2,3 +2,4 @@
 // Improve ERC-721 token metadata functionality
 // Enhance contract modularity for future upgrades
 // Fix issue with multi-chain transactions
+// Add fallback mechanism in Solidity contract
