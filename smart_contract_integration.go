@@ -2,3 +2,4 @@
 // Integrate privacy-enhancing smart contracts
 // Fix data consistency issues in smart contracts
 // Improve contract auditing tools
+// Add support for ERC-1155 tokens
