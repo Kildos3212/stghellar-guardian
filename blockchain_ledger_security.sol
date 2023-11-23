@@ -3,3 +3,4 @@
 // Improve token burning mechanism
 // Add multi-chain transaction support
 // Fix interoperability issues with other blockchains
+// Integrate IPFS for storage
