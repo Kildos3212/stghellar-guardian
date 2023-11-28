@@ -2,3 +2,4 @@
 // Improve error handling in transaction flow
 // Refactor decentralized exchange (DEX) code
 // Update README with Go module examples
+// Fix vulnerability in decentralized finance protocols
