@@ -3,3 +3,4 @@
 // Refactor decentralized exchange (DEX) code
 // Update README with Go module examples
 // Fix vulnerability in decentralized finance protocols
+// Fix issues with token vesting contracts
