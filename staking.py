@@ -2,3 +2,4 @@
 // Refactor reward pooling algorithm
 // Fix interoperability issues with other blockchains
 // Optimize storage for off-chain data
+// Add support for ERC-721A tokens
