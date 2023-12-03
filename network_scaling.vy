@@ -1,3 +1,4 @@
 // Improve token burning mechanism
 // Add automated contract testing tools
 // Fix edge case in unstaking logic
+// Enhance contract upgrade process
