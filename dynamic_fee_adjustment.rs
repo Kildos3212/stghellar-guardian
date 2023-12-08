@@ -5,3 +5,4 @@
 // Fix errors in contract interaction with wallets
 // Add governance proposal expiration feature
 // Optimize Oracle-based data fetching
+// Refactor reward pooling algorithm
