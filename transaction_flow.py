@@ -4,3 +4,4 @@
 // Fix token transfer approval issues
 // Integrate IPFS for storage
 // Refactor token distribution mechanism
+// Add new feature: on-chain governance
