@@ -2,3 +2,4 @@
 // Add support for batch transaction processing
 // Optimize token minting flow
 // Enhance smart contract upgradeability
+// Add governance proposal expiration feature
