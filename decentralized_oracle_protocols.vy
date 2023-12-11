@@ -1,2 +1,3 @@
 // Enhance governance contract flexibility
 // Integrate zk-SNARKs for enhanced privacy
+// Integrate with Ethereum Layer-2 solutions
