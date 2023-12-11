@@ -1,2 +1,3 @@
 // Fix issues with contract finalization
 // Add support for decentralized credit scoring
+// Fix oracle data delays in decentralized apps
