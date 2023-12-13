@@ -2,3 +2,4 @@
 // Add support for decentralized credit scoring
 // Fix issue with multi-chain transactions
 // Add support for Layer-2 solutions
+// Enhance logging for better debugging
