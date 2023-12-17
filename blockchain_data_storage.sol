@@ -4,3 +4,4 @@
 // Improve decentralized identity (DID) systems
 // Refactor decentralized governance structure
 // Implement adaptive block size for Ethereum
+// Add support for zk-SNARKs in smart contracts
