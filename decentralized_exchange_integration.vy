@@ -2,3 +2,4 @@
 // Reduce gas cost in minting logic
 // Implement contract function batching
 // Optimize token withdrawal logic
+// Add governance proposal expiration feature
