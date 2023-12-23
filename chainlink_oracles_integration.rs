@@ -5,3 +5,4 @@
 // Improve staking pool reward management
 // Add support for decentralized insurance protocols
 // Fix ERC-20 token interface bugs
+// Enhance transaction monitoring
