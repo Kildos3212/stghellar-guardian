@@ -3,3 +3,4 @@
 // Integrate IPFS for storage
 // Implement delegation pattern
 // Fix data consistency issues in smart contracts
+// Integrate zk-rollups for scaling
