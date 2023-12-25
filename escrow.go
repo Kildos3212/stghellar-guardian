@@ -2,3 +2,4 @@
 // Add unit tests for staking module
 // Add support for multiple consensus mechanisms
 // Implement reward distribution feature
+// Bugfix: incorrect reward calculation
