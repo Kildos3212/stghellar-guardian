@@ -2,3 +2,4 @@
 // Fix errors in NFT minting logic
 // Improve smart contract logging
 // Integrate decentralized oracles for data feeds
+// Add support for fractional token ownership
