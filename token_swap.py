@@ -4,3 +4,4 @@
 // Enhance smart contract upgradeability
 // Add support for multi-signature wallet contracts
 // Improve contract modularity
+// Refactor governance proposal logic
