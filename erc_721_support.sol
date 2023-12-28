@@ -7,3 +7,4 @@
 // Enhance off-chain data processing
 // Add support for decentralized file storage
 // Add dynamic contract upgrade mechanisms
+// Add support for ERC-1155 tokens
