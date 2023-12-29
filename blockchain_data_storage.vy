@@ -3,3 +3,4 @@
 // Integrate zk-rollups for scaling
 // Implement contract function batching
 // Refactor multi-signature wallet code
+// Implement zero-knowledge proof (ZKP) support
