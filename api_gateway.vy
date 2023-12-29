@@ -4,3 +4,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Add decentralized contract upgradeability
 // Add support for fractional token ownership
+// Fix compatibility issues with major wallets
