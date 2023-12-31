@@ -5,3 +5,4 @@
 // Add decentralized contract upgradeability
 // Add support for fractional token ownership
 // Fix compatibility issues with major wallets
+// Integrate zk-rollups for scaling
