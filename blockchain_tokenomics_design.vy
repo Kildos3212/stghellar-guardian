@@ -2,3 +2,4 @@
 // Refactor validator reward system
 // Improve contract auditing tools
 // Enhance token swap functionality
+// Refactor staking logic
