@@ -2,3 +2,4 @@
 // Add automated contract testing tools
 // Fix edge case in unstaking logic
 // Enhance contract upgrade process
+// Fix compatibility with MetaMask
