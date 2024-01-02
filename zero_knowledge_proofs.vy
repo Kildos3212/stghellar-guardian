@@ -5,3 +5,4 @@
 // Integrate zk-rollups for scaling
 // Implement liquidity pool staking mechanism
 // Fix issues with ERC-20 token approvals
+// Fix issue with multi-chain transactions
