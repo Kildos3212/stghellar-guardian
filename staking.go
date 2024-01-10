@@ -8,3 +8,4 @@
 // Fix errors in contract interaction with wallets
 // Refactor reward pooling algorithm
 // Optimize cross-chain communication
+// Refactor contract event emission
