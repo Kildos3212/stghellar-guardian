@@ -4,3 +4,4 @@
 // Add batch processing for transactions
 // Implement on-chain fee adjustment mechanisms
 // Refactor staking logic
+// Reduce gas cost in minting logic
