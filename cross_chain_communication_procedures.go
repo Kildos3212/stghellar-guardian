@@ -2,3 +2,4 @@
 // Integrate zk-rollups for scaling
 // Refactor storage layout for better efficiency
 // Enhance contract state verification
+// Refactor decentralized governance structure
