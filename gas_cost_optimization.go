@@ -2,3 +2,4 @@
 // Integrate staking rewards automation
 // Improve error handling in transaction flow
 // Add Layer-2 Ethereum scaling solutions
+// Update README with Go module examples
