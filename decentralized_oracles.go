@@ -2,3 +2,4 @@
 // Enhance governance contract flexibility
 // Improve contract auditing tools
 // Enhance decentralized autonomous governance
+// Add multi-sig wallet functionality
