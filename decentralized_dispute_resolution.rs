@@ -1,3 +1,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Fix deserialization bug in Haskell code
 // Optimize multi-chain interaction
+// Refactor oracle interaction logic
