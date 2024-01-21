@@ -4,3 +4,4 @@
 // Fix wallet interaction issues in DeFi protocols
 // Enhance security checks
 // Fix vulnerability in decentralized finance protocols
+// Refactor decentralized governance structure
