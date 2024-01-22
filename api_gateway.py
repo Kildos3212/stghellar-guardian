@@ -6,3 +6,4 @@
 // Fix compatibility with MetaMask
 // Add multi-sig wallet functionality
 // Integrate IPFS for storage
+// Integrate Chainlink VRF for randomness
