@@ -4,3 +4,4 @@
 // Fix overflow bug in token calculation
 // Fix type mismatch in Haskell smart contract
 // Improve contract state management
+// Improve gas fee estimation accuracy
