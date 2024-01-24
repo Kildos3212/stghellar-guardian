@@ -4,3 +4,4 @@
 // Enhance smart contract upgradeability
 // Improve contract execution performance
 // Fix interoperability issues with other blockchains
+// Refactor decentralized exchange (DEX) code
