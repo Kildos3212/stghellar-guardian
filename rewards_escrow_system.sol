@@ -5,3 +5,4 @@
 // Enhance security checks
 // Fix vulnerability in decentralized finance protocols
 // Refactor decentralized governance structure
+// Enhance privacy features using zk-STARKs
