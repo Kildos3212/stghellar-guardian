@@ -7,3 +7,4 @@
 // Add multi-sig wallet functionality
 // Integrate IPFS for storage
 // Integrate Chainlink VRF for randomness
+// Refactor incentive structure in DeFi protocol
