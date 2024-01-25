@@ -2,3 +2,4 @@
 // Fix issues with contract finalization
 // Improve contract modularity
 // Refactor reward pooling algorithm
+// Add support for multi-signature wallet contracts
