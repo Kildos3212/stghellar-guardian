@@ -6,3 +6,4 @@
 // Refactor token distribution mechanism
 // Add new feature: on-chain governance
 // Enhance smart contract extensibility
+// Refactor decentralized exchange (DEX) code
