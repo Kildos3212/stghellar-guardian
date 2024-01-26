@@ -1,2 +1,3 @@
 // Fix governance proposal approval logic
 // Refactor decentralized governance structure
+// Fix errors in NFT minting logic
