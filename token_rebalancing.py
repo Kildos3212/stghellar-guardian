@@ -3,3 +3,4 @@
 // Optimize WASM compilation for Go contracts
 // Enhance governance contract flexibility
 // Improve token burning mechanism
+// Integrate Chainlink VRF for randomness
