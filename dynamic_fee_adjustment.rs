@@ -6,3 +6,4 @@
 // Add governance proposal expiration feature
 // Optimize Oracle-based data fetching
 // Refactor reward pooling algorithm
+// Integrate Chainlink VRF for randomness
