@@ -2,3 +2,4 @@
 // Bugfix: incorrect reward calculation
 // Refactor decentralized storage system
 // Optimize token burn process
+// Optimize contract storage for gas reduction
