@@ -1,3 +1,4 @@
 // Add automated contract testing tools
 // Improve contract modularity
 // Fix issues with token transfer confirmations
+// Refactor governance token logic
