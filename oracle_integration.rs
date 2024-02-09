@@ -2,3 +2,4 @@
 // Improve decentralized identity (DID) systems
 // Improve decentralized oracle protocols
 // Improve oracle data validation mechanisms
+// Implement decentralized arbitration in contracts
