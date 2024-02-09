@@ -3,3 +3,4 @@
 // Add new RPC endpoint
 // Implement time-locked contract execution
 // Implement delegation pattern
+// Add support for ERC-721A tokens
