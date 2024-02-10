@@ -7,3 +7,4 @@
 // Refactor governance token logic
 // Optimize gas usage in smart contracts
 // Refactor staking logic
+// Add native support for staking rewards
