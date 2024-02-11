@@ -5,3 +5,4 @@
 // Refactor governance proposal logic
 // Refactor wallet interaction logic
 // Add decentralized contract upgradeability
+// Implement a new contract event system
