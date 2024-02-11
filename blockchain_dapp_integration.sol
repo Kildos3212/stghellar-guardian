@@ -2,3 +2,4 @@
 // Fix issues with token transfer confirmations
 // Optimize gas usage in smart contracts
 // Add automated contract testing tools
+// Refactor voting mechanism
