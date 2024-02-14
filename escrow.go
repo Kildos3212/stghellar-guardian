@@ -3,3 +3,4 @@
 // Add support for multiple consensus mechanisms
 // Implement reward distribution feature
 // Bugfix: incorrect reward calculation
+// Improve decentralized oracle protocols
