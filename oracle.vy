@@ -1,3 +1,4 @@
 // Add batch processing for transactions
 // Improve decentralized exchange (DEX) liquidity
 // Fix memory leak in Rust smart contract
+// Add support for cross-chain bridges
