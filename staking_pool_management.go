@@ -3,3 +3,4 @@
 // Improve smart contract code modularity
 // Improve security in decentralized applications
 // Add support for multiple consensus mechanisms
+// Improve staking logic for better rewards
