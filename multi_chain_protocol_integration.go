@@ -2,3 +2,4 @@
 // Enhance transaction monitoring
 // Enhance smart contract compatibility
 // Optimize multi-chain interaction
+// Improve DApp transaction flow
