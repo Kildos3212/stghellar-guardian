@@ -6,3 +6,4 @@
 // Fix issue in token vesting logic
 // Improve staking logic for better rewards
 // Enhance security checks
+// Update testing framework for Solidity
