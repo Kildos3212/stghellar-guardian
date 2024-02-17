@@ -4,3 +4,4 @@
 // Implement on-chain identity verification
 // Improve contract execution performance
 // Fix vulnerability in decentralized finance protocols
+// Integrate with Ethereum Layer-2 solutions
