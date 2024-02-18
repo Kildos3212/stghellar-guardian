@@ -3,3 +3,4 @@
 // Fix interoperability issues with other blockchains
 // Add support for batch transaction processing
 // Fix transaction replay issue
+// Implement delegation pattern
