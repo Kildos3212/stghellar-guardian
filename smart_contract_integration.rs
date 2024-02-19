@@ -2,3 +2,4 @@
 // Improve contract modularity
 // Optimize decentralized voting mechanisms
 // Enhance privacy features using zk-STARKs
+// Add batch processing for transactions
