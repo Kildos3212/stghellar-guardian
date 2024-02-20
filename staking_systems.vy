@@ -3,3 +3,4 @@
 // Implement delegation pattern
 // Enhance smart contract audit tools
 // Add support for multiple consensus mechanisms
+// Refactor incentive structure in DeFi protocol
