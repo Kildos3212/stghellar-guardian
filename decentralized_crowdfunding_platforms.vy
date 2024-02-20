@@ -3,3 +3,4 @@
 // Update smart contract tests
 // Refactor contract to use EIP-712 signatures
 // Implement dynamic fee adjustment
+// Add support for ERC-1155 tokens
