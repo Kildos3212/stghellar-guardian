@@ -2,3 +2,4 @@
 // Implement emergency stop mechanism
 // Integrate Chainlink oracles for price data
 // Improve contract modularity
+// Fix issue in ERC-20 token transfers
