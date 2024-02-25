@@ -5,3 +5,4 @@
 // Improve contract execution speed
 // Refactor staking logic
 // Improve multi-chain contract deployment
+// Add fallback mechanism in Solidity contract
