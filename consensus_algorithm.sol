@@ -7,3 +7,4 @@
 // Refactor decentralized exchange (DEX) code
 // Optimize contract upgrade process
 // Enhance contract initialization process
+// Integrate zk-rollups for scaling
