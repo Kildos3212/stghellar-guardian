@@ -5,3 +5,4 @@
 // Add support for multi-signature wallet contracts
 // Optimize contract upgrade process
 // Implement time-locked contract execution
+// Add support for cross-chain bridges
