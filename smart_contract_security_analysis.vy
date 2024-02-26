@@ -3,3 +3,4 @@
 // Fix issue in token vesting logic
 // Improve contract modularity
 // Fix memory leak in Rust smart contract
+// Improve multi-chain contract deployment
