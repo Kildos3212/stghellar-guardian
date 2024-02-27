@@ -2,3 +2,4 @@
 // Update dependencies for Vyper contract
 // Add support for decentralized auctions
 // Implement delegation pattern
+// Add native support for staking rewards
