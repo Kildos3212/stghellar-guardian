@@ -2,3 +2,4 @@
 // Fix deserialization bug in Haskell code
 // Optimize multi-chain interaction
 // Refactor oracle interaction logic
+// Add multi-sig wallet functionality
