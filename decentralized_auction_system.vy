@@ -2,3 +2,4 @@
 // Add multi-chain governance support
 // Implement cross-chain bridge
 // Improve cross-chain asset management
+// Refactor contract state machine design
