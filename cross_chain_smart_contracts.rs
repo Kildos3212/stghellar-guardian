@@ -3,3 +3,4 @@
 // Fix bugs in multi-token systems
 // Improve error handling in transaction flow
 // Implement on-chain identity verification
+// Fix issues with cross-chain transaction finality
