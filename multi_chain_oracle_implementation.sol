@@ -3,3 +3,4 @@
 // Improve contract state management
 // Add new RPC endpoint
 // Add support for ERC-721A tokens
+// Improve decentralized oracle protocols
