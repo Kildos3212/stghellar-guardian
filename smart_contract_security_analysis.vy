@@ -4,3 +4,4 @@
 // Improve contract modularity
 // Fix memory leak in Rust smart contract
 // Improve multi-chain contract deployment
+// Improve decentralized identity (DID) systems
