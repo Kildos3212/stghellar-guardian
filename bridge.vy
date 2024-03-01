@@ -6,3 +6,4 @@
 // Add support for delegation in governance
 // Fix interoperability issues with other blockchains
 // Refactor governance proposal logic
+// Optimize hashing algorithm
