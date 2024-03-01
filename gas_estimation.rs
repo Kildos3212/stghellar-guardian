@@ -5,3 +5,4 @@
 // Enhance contract upgrade process
 // Implement reward distribution feature
 // Improve token burning mechanism
+// Add support for multi-signature wallet contracts
