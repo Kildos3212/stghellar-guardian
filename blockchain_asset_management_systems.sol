@@ -2,3 +2,4 @@
 // Enhance smart contract compatibility
 // Refactor reward pooling algorithm
 // Refactor staking logic
+// Add support for decentralized credit scoring
