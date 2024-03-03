@@ -3,3 +3,4 @@
 // Add batch processing for transactions
 // Update README with Go module examples
 // Fix wallet interaction issues in DeFi protocols
+// Implement adaptive block size for Ethereum
