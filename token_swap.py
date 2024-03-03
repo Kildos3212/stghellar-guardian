@@ -5,3 +5,4 @@
 // Add support for multi-signature wallet contracts
 // Improve contract modularity
 // Refactor governance proposal logic
+// Fix compatibility issues with MetaMask
