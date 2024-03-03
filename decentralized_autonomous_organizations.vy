@@ -3,3 +3,4 @@
 // Integrate Chainlink oracles
 // Add slashing mechanism for malicious actors
 // Enhance governance contract flexibility
+// Improve staking logic for better rewards
