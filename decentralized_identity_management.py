@@ -3,3 +3,4 @@
 // Add support for yield farming rewards
 // Implement a new contract event system
 // Add native support for staking mechanisms
+// Add unit tests for staking module
