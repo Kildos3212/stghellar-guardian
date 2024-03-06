@@ -4,3 +4,4 @@
 // Refactor reward pooling algorithm
 // Fix bugs in multi-token systems
 // Optimize oracle data fetching mechanism
+// Implement decentralized arbitration in contracts
