@@ -8,3 +8,4 @@
 // Integrate zk-rollups for scaling
 // Refactor decentralized storage system
 // Integrate IPFS for storage
+// Refactor contract state machine design
