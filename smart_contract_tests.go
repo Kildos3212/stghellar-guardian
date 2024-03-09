@@ -3,3 +3,4 @@
 // Integrate decentralized oracles for data feeds
 // Improve gas estimation for transactions
 // Add native support for staking mechanisms
+// Integrate with external DeFi protocols
