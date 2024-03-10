@@ -4,3 +4,4 @@
 // Fix issue with multi-chain transactions
 // Integrate with decentralized prediction markets
 // Integrate Chainlink oracles for price data
+// Add support for ERC-1155 tokens
