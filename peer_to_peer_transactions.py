@@ -2,3 +2,4 @@
 // Add native support for staking rewards
 // Add multi-chain transaction support
 // Add multi-sig wallet functionality
+// Improve DApp transaction flow
