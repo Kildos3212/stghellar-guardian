@@ -6,3 +6,4 @@
 // Improve contract modularity
 // Refactor governance proposal logic
 // Fix compatibility issues with MetaMask
+// Implement decentralized arbitration in contracts
