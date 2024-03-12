@@ -1,3 +1,4 @@
 // Fix security vulnerability in random number generation
 // Fix compatibility with MetaMask
 // Fix issue with multi-chain transactions
+// Add support for ERC-1155 tokens
