@@ -3,3 +3,4 @@
 // Fix issues with token transfer confirmations
 // Refactor contract to use EIP-712 signatures
 // Refactor contract state machine design
+// Optimize contract upgrade process
