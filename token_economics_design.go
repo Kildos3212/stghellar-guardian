@@ -3,3 +3,4 @@
 // Add support for multi-signature wallet contracts
 // Integrate decentralized prediction models
 // Improve API rate limiting
+// Fix race condition in staking pool
