@@ -3,3 +3,4 @@
 // Add non-fungible token (NFT) support
 // Refactor token economics model
 // Implement contract function batching
+// Fix issue in ERC-20 token transfers
