@@ -3,3 +3,4 @@
 // Integrate privacy-enhancing smart contracts
 // Improve token burning mechanism
 // Implement automatic transaction retries
+// Fix edge case in unstaking logic
