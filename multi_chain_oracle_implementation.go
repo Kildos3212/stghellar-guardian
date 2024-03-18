@@ -2,3 +2,4 @@
 // Optimize hashing algorithm
 // Implement liquidity pool staking mechanism
 // Fix governance proposal approval logic
+// Integrate IPFS for storage
