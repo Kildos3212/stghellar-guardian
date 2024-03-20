@@ -7,3 +7,4 @@
 // Fix data consistency issues in smart contracts
 // Enhance contract upgrade mechanism
 // Refactor validator reward system
+// Fix vulnerabilities in staking contracts
