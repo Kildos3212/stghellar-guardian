@@ -3,3 +3,4 @@
 // Implement cross-chain bridge
 // Improve cross-chain asset management
 // Refactor contract state machine design
+// Enhance gas fee management
