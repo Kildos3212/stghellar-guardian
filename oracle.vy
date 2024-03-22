@@ -3,3 +3,4 @@
 // Fix memory leak in Rust smart contract
 // Add support for cross-chain bridges
 // Fix overflow bug in token calculation
+// Fix transaction replay issue
