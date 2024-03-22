@@ -2,3 +2,4 @@
 // Add support for delegation in governance
 // Add support for multiple consensus mechanisms
 // Enhance decentralized autonomous governance
+// Fix scalability issues with smart contracts
