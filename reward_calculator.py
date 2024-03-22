@@ -2,3 +2,4 @@
 // Improve token minting flow efficiency
 // Refactor contract to use EIP-712 signatures
 // Refactor contract event emission
+// Add support for yield farming rewards
