@@ -3,3 +3,4 @@
 // Add slashing mechanism for malicious actors
 // Enhance token swap functionality
 // Implement cross-chain bridge
+// Add support for decentralized file storage
