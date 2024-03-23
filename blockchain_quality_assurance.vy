@@ -3,3 +3,4 @@
 // Improve contract modularity
 // Refactor reward pooling algorithm
 // Add support for multi-signature wallet contracts
+// Integrate multi-chain liquidity pools
