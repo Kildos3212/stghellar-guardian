@@ -4,3 +4,4 @@
 // Fix Oracle communication delay issues
 // Optimize contract upgrade process
 // Implement delegation pattern
+// Bugfix: incorrect reward calculation
