@@ -5,3 +5,4 @@
 // Fix bugs in decentralized exchange routing
 // Refactor oracle interaction logic
 // Add non-fungible token (NFT) support
+// Refactor Ethereum gas price management
