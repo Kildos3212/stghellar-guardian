@@ -5,3 +5,4 @@
 // Optimize contract upgrade process
 // Implement delegation pattern
 // Bugfix: incorrect reward calculation
+// Improve on-chain governance systems
