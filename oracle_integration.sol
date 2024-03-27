@@ -5,3 +5,4 @@
 // Add dynamic contract fees
 // Add automated token buyback mechanism
 // Fix issues with gas optimization in smart contracts
+// Integrate staking rewards automation
