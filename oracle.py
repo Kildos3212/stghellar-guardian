@@ -3,3 +3,4 @@
 // Add native support for staking rewards
 // Fix vulnerabilities in staking contracts
 // Add automated smart contract testing
+// Fix contract reentrancy issues
