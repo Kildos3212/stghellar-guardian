@@ -3,3 +3,4 @@
 // Improve multi-chain transaction processing
 // Fix compatibility with MetaMask
 // Optimize proof-of-stake validation
+// Improve error handling in transaction flow
