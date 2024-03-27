@@ -4,3 +4,4 @@
 // Optimize decentralized application performance
 // Fix edge case in unstaking logic
 // Fix errors in contract interaction with wallets
+// Refactor Ethereum gas price management
