@@ -2,3 +2,4 @@
 // Fix transaction replay issue
 // Optimize state channels for faster transactions
 // Fix interoperability issues with other blockchains
+// Add support for ERC-721A tokens
