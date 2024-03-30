@@ -2,3 +2,4 @@
 // Improve error handling in transaction flow
 // Add multi-sig wallet functionality
 // Improve staking logic for better rewards
+// Update README with Go module examples
