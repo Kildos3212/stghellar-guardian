@@ -3,3 +3,4 @@
 // Implement a new contract event system
 // Add batch processing for transactions
 // Enhance contract upgrade process
+// Refactor contract to use EIP-712 signatures
