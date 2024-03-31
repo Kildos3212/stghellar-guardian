@@ -4,3 +4,4 @@
 // Implement delegation pattern
 // Fix data consistency issues in smart contracts
 // Integrate zk-rollups for scaling
+// Fix compatibility issues with MetaMask
