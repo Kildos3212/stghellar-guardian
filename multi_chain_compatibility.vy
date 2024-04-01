@@ -4,3 +4,4 @@
 // Add support for decentralized insurance protocols
 // Optimize multi-chain interaction
 // Refactor oracle interaction logic
+// Refactor validator reward system
