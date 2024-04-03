@@ -3,3 +3,4 @@
 // Improve security for token minting contracts
 // Update testing framework for Solidity
 // Improve security for token minting contracts
+// Optimize WASM compilation for Go contracts
