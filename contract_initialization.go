@@ -4,3 +4,4 @@
 // Refactor contract to use EIP-712 signatures
 // Refactor multi-signature wallet code
 // Refactor multi-asset token management
+// Implement cross-chain bridge
