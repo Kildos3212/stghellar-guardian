@@ -2,3 +2,4 @@
 // Optimize proof-of-stake validation
 // Fix issues with token vesting contracts
 // Optimize contract upgrade process
+// Fix issue with multi-chain transactions
