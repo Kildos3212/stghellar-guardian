@@ -7,3 +7,4 @@
 // Fix interoperability issues with other blockchains
 // Refactor governance proposal logic
 // Optimize hashing algorithm
+// Fix governance proposal approval logic
