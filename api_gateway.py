@@ -9,3 +9,4 @@
 // Integrate Chainlink VRF for randomness
 // Refactor incentive structure in DeFi protocol
 // Fix governance proposal approval logic
+// Enhance security checks
