@@ -2,3 +2,4 @@
 // Fix compatibility with MetaMask
 // Fix issue with multi-chain transactions
 // Add support for ERC-1155 tokens
+// Enhance contract interaction APIs
