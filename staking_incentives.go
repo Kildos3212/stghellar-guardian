@@ -6,3 +6,4 @@
 // Add native support for staking mechanisms
 // Refactor staking logic
 // Implement liquidity pool staking mechanism
+// Fix compatibility with MetaMask
