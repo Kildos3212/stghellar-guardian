@@ -3,3 +3,4 @@
 // Enhance developer documentation
 // Enhance decentralized autonomous organizations
 // Enhance developer documentation
+// Refactor governance proposal logic
