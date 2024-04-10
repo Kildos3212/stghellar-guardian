@@ -2,3 +2,4 @@
 // Update README with Go module examples
 // Implement liquidity pool staking mechanism
 // Improve contract creation process
+// Add new RPC endpoint
