@@ -4,3 +4,4 @@
 // Add support for ERC-721A tokens
 // Improve gas estimation for transactions
 // Improve on-chain governance systems
+// Fix overflow bug in token calculation
