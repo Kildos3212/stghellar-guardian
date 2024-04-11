@@ -3,3 +3,4 @@
 // Optimize decentralized voting mechanisms
 // Add support for DeFi lending protocols
 // Improve staking pool reward management
+// Refactor cross-chain communication layer
