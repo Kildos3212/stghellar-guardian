@@ -6,3 +6,4 @@
 // Code cleanup and documentation update
 // Improve multi-chain contract deployment
 // Improve gas estimation for transactions
+// Optimize storage for off-chain data
