@@ -5,3 +5,4 @@
 // Fix interoperability issues with other blockchains
 // Integrate IPFS for storage
 // Add security checks for contract deployment
+// Enhance test coverage for Rust module
