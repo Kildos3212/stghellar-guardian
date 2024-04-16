@@ -4,3 +4,4 @@
 // Implement reward distribution feature
 // Bugfix: incorrect reward calculation
 // Improve decentralized oracle protocols
+// Refactor staking logic
