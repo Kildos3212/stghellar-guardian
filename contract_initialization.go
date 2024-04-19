@@ -5,3 +5,4 @@
 // Refactor multi-signature wallet code
 // Refactor multi-asset token management
 // Implement cross-chain bridge
+// Refactor staking logic
