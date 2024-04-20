@@ -4,3 +4,4 @@
 // Optimize proof-of-stake validation
 // Refactor staking logic
 // Fix bug in random number generation
+// Add support for multi-signature wallet contracts
