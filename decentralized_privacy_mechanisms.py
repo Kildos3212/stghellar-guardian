@@ -3,3 +3,4 @@
 // Add new feature: on-chain governance
 // Fix data consistency issues in smart contracts
 // Optimize decentralized application performance
+// Fix vulnerabilities in staking contracts
