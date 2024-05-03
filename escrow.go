@@ -5,3 +5,4 @@
 // Bugfix: incorrect reward calculation
 // Improve decentralized oracle protocols
 // Refactor staking logic
+// Refactor wallet interaction logic
