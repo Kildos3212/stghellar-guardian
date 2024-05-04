@@ -4,3 +4,4 @@
 // Enhance API rate limiting for smart contracts
 // Add support for zk-SNARKs in smart contracts
 // Fix bugs in multi-token systems
+// Fix type mismatch in Haskell smart contract
