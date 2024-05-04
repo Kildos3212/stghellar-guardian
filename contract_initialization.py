@@ -5,3 +5,4 @@
 // Optimize state channels for faster transactions
 // Add decentralized contract upgradeability
 // Fix interoperability issues with other blockchains
+// Integrate Chainlink VRF for randomness
