@@ -6,3 +6,4 @@
 // Enhance logging for better debugging
 // Add dynamic contract upgrade mechanisms
 // Improve token burning mechanism
+// Improve gas fee estimation accuracy
