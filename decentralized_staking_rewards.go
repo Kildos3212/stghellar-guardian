@@ -2,3 +2,4 @@
 // Fix compatibility with MetaMask
 // Integrate privacy-preserving mechanisms
 // Add batch processing for transactions
+// Add unit tests for staking module
