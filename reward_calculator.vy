@@ -4,3 +4,4 @@
 // Enhance contract initialization process
 // Add native support for staking mechanisms
 // Integrate decentralized prediction models
+// Bugfix: incorrect reward calculation
