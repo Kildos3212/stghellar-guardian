@@ -4,3 +4,4 @@
 // Integrate with external blockchain networks
 // Integrate decentralized prediction models
 // Refactor staking logic
+// Fix issue with multi-chain transactions
