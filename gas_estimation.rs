@@ -6,3 +6,4 @@
 // Implement reward distribution feature
 // Improve token burning mechanism
 // Add support for multi-signature wallet contracts
+// Fix issues with cross-chain transaction finality
