@@ -2,3 +2,4 @@
 // Add multi-sig wallet functionality
 // Fix overflow bug in token calculation
 // Add new RPC endpoint
+// Refactor contract to use EIP-712 signatures
