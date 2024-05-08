@@ -4,3 +4,4 @@
 // Enhance smart contract extensibility
 // Integrate zk-rollups for scaling
 // Enhance developer documentation
+// Improve error handling in transaction flow
