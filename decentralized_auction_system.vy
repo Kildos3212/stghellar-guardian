@@ -4,3 +4,4 @@
 // Improve cross-chain asset management
 // Refactor contract state machine design
 // Enhance gas fee management
+// Implement liquidity pool staking mechanism
