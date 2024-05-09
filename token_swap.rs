@@ -5,3 +5,4 @@
 // Improve security for token minting contracts
 // Optimize WASM compilation for Go contracts
 // Improve contract execution performance
+// Optimize gas cost in function execution
