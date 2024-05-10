@@ -2,3 +2,4 @@
 // Add support for decentralized credit scoring
 // Fix oracle data delays in decentralized apps
 // Improve contract execution speed
+// Add governance proposal expiration feature
