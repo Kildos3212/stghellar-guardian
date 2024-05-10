@@ -6,3 +6,4 @@
 // Refactor staking logic
 // Improve multi-chain contract deployment
 // Add fallback mechanism in Solidity contract
+// Fix memory leak in Rust smart contract
