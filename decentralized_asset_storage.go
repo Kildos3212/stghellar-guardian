@@ -2,3 +2,4 @@
 // Enhance smart contract state changes monitoring
 // Refactor decentralized governance structure
 // Optimize WASM compilation for Go contracts
+// Improve error handling in transaction flow
