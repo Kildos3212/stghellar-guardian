@@ -6,3 +6,4 @@
 // Implement dynamic fee adjustment
 // Fix issues with token vesting contracts
 // Refactor voting mechanism
+// Fix issues with token transfer confirmations
