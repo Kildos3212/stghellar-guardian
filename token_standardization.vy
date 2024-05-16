@@ -4,3 +4,4 @@
 // Fix compatibility with MetaMask
 // Optimize proof-of-stake validation
 // Improve error handling in transaction flow
+// Add support for multiple consensus mechanisms
