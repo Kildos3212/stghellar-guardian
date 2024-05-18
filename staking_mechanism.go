@@ -5,3 +5,4 @@
 // Add support for ERC-1155 tokens
 // Fix transaction replay issue
 // Add multi-sig wallet functionality
+// Fix interoperability issues with other blockchains
