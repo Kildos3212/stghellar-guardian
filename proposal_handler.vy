@@ -5,3 +5,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Fix bugs in multi-token systems
 // Fix type mismatch in Haskell smart contract
+// Enhance decentralized autonomous governance
