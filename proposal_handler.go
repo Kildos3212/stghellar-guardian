@@ -5,3 +5,4 @@
 // Enhance smart contract upgradeability
 // Add native support for staking rewards
 // Add governance proposal expiration feature
+// Improve token minting flow efficiency
