@@ -11,3 +11,4 @@
 // Improve contract execution speed
 // Optimize oracle data fetching mechanism
 // Fix edge case in unstaking logic
+// Integrate IPFS for storage
