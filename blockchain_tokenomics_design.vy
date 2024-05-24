@@ -5,3 +5,4 @@
 // Refactor staking logic
 // Add automated contract testing tools
 // Fix issues with contract finalization
+// Enhance smart contract upgradeability
