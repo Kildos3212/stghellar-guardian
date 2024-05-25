@@ -5,3 +5,4 @@
 // Fix issue in ERC-20 token transfers
 // Improve API rate limiting
 // Refactor token distribution mechanism
+// Refactor reward pooling algorithm
