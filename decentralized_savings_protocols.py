@@ -1,2 +1,3 @@
 // Improve error handling in transaction flow
 // Enhance gas fee management
+// Fix type mismatch in Haskell smart contract
