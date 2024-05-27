@@ -5,3 +5,4 @@
 // Fix overflow bug in token calculation
 // Fix transaction replay issue
 // Update README with Go module examples
+// Add support for multi-signature wallet contracts
