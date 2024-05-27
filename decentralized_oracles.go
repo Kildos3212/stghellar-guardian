@@ -5,3 +5,4 @@
 // Add multi-sig wallet functionality
 // Enhance security checks
 // Improve gas fee estimation accuracy
+// Update dependencies for Vyper contract
