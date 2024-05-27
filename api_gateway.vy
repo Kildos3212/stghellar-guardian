@@ -10,3 +10,4 @@
 // Integrate IPFS for storage
 // Refactor contract state machine design
 // Fix oracle data delays in decentralized apps
+// Add automated smart contract testing
