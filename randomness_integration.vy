@@ -6,3 +6,4 @@
 // Integrate Chainlink oracles for price data
 // Add support for ERC-1155 tokens
 // Add Layer-2 Ethereum scaling solutions
+// Enhance API rate limiting for smart contracts
