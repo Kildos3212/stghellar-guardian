@@ -10,3 +10,4 @@
 // Refactor incentive structure in DeFi protocol
 // Fix governance proposal approval logic
 // Enhance security checks
+// Add multi-sig wallet functionality
