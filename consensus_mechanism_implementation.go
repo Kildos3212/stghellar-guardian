@@ -4,3 +4,4 @@
 // Improve gas fee estimation accuracy
 // Fix contract reentrancy issues
 // Add native support for staking mechanisms
+// Enhance logging for better debugging
