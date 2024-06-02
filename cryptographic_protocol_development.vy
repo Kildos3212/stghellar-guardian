@@ -3,3 +3,4 @@
 // Enhance security checks
 // Enhance contract initialization process
 // Fix compatibility issues with MetaMask
+// Fix governance proposal approval logic
