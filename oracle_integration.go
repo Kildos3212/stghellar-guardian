@@ -3,3 +3,4 @@
 // Integrate decentralized anonymous identity systems
 // Improve contract execution speed
 // Integrate with decentralized prediction markets
+// Refactor staking logic
