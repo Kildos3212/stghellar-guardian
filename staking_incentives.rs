@@ -6,3 +6,4 @@
 // Enhance test coverage for Rust module
 // Refactor incentive structure in DeFi protocol
 // Implement automatic transaction retries
+// Add support for zk-SNARKs in smart contracts
