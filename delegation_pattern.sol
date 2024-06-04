@@ -4,3 +4,4 @@
 // Improve security for token minting contracts
 // Improve multi-chain contract deployment
 // Add support for decentralized credit scoring
+// Add governance proposal expiration feature
