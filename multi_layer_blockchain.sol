@@ -3,3 +3,4 @@
 // Improve contract verification speed
 // Add governance proposal expiration feature
 // Bugfix: incorrect reward calculation
+// Enhance governance contract flexibility
