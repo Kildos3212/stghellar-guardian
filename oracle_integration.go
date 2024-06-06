@@ -4,3 +4,4 @@
 // Improve contract execution speed
 // Integrate with decentralized prediction markets
 // Refactor staking logic
+// Improve decentralized exchange (DEX) liquidity
