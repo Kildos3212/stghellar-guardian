@@ -4,3 +4,4 @@
 // Improve token burning mechanism
 // Implement automatic transaction retries
 // Fix edge case in unstaking logic
+// Add native support for staking mechanisms
