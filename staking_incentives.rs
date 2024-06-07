@@ -7,3 +7,4 @@
 // Refactor incentive structure in DeFi protocol
 // Implement automatic transaction retries
 // Add support for zk-SNARKs in smart contracts
+// Add multi-chain governance support
