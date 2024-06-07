@@ -6,3 +6,4 @@
 // Fix overflow bug in token calculation
 // Enhance privacy features using zk-STARKs
 // Add automated token buyback mechanism
+// Add fallback mechanism in Solidity contract
