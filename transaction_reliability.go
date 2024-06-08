@@ -6,3 +6,4 @@
 // Fix issue with multi-chain transactions
 // Integrate IPFS for storage
 // Add support for NFT marketplaces
+// Add new feature: on-chain governance
