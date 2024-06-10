@@ -12,3 +12,4 @@
 // Optimize oracle data fetching mechanism
 // Fix edge case in unstaking logic
 // Integrate IPFS for storage
+// Fix scalability issues with smart contracts
