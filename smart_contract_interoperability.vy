@@ -3,3 +3,4 @@
 // Enhance token swap functionality
 // Fix memory optimization issues in contracts
 // Enhance privacy features using zk-STARKs
+// Fix governance proposal approval logic
