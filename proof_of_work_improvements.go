@@ -1,2 +1,3 @@
 // Add batch transaction capabilities
 // Add new feature: on-chain governance
+// Fix interoperability issues with other blockchains
