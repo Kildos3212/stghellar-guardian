@@ -7,3 +7,4 @@
 // Improve staking logic for better rewards
 // Enhance security checks
 // Update testing framework for Solidity
+// Improve error handling in transaction flow
