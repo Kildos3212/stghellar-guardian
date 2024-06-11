@@ -10,3 +10,4 @@
 // Integrate zk-rollups for scaling
 // Refactor staking logic
 // Integrate decentralized oracles for data feeds
+// Improve decentralized lending contract flexibility
