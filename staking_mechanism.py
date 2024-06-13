@@ -4,3 +4,4 @@
 // Implement delegation pattern
 // Refactor contract to use EIP-712 signatures
 // Integrate decentralized oracles for data feeds
+// Refactor incentive structure in DeFi protocol
