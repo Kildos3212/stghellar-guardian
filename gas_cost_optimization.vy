@@ -6,3 +6,4 @@
 // Improve API rate limiting
 // Refactor token distribution mechanism
 // Refactor reward pooling algorithm
+// Fix errors in NFT minting logic
