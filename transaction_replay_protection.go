@@ -5,3 +5,4 @@
 // Implement cross-chain bridge
 // Add support for decentralized file storage
 // Fix interoperability issues with other blockchains
+// Fix race condition in staking pool
