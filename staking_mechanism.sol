@@ -6,3 +6,4 @@
 // Integrate privacy-preserving mechanisms
 // Optimize contract upgrade process
 // Update dependencies for Vyper contract
+// Improve staking logic for better rewards
