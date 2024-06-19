@@ -5,3 +5,4 @@
 // Add support for multiple consensus mechanisms
 // Add decentralized contract upgradeability
 // Improve contract interaction via APIs
+// Refactor storage layout for better efficiency
