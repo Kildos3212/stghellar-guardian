@@ -4,3 +4,4 @@
 // Enhance smart contract state changes monitoring
 // Add support for zk-SNARKs in smart contracts
 // Add support for decentralized file storage
+// Fix compatibility with MetaMask
