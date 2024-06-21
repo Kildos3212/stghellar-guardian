@@ -4,3 +4,4 @@
 // Enhance smart contract upgradeability
 // Integrate zk-rollups for scaling
 // Refactor decentralized governance structure
+// Fix interoperability issues with other blockchains
