@@ -7,3 +7,4 @@
 // Fix ERC-20 token interface bugs
 // Enhance transaction monitoring
 // Enhance test coverage for Rust module
+// Add support for NFT marketplaces
