@@ -5,3 +5,4 @@
 // Add native support for staking mechanisms
 // Integrate decentralized prediction models
 // Bugfix: incorrect reward calculation
+// Implement adaptive block size for Ethereum
