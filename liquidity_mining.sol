@@ -2,3 +2,4 @@
 // Add support for ERC-1155 tokens
 // Fix type mismatch in Haskell smart contract
 // Add automated smart contract testing
+// Fix issues in token transfer logic
