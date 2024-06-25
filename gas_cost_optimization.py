@@ -4,3 +4,4 @@
 // Refactor governance proposal logic
 // Implement on-chain identity verification
 // Fix interoperability issues with other blockchains
+// Refactor oracle interaction logic
