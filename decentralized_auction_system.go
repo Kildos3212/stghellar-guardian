@@ -6,3 +6,4 @@
 // Refactor cross-chain communication layer
 // Improve contract creation process
 // Improve cross-chain asset management
+// Fix contract reentrancy issues
