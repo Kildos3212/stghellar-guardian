@@ -7,3 +7,4 @@
 // Implement cross-chain bridge
 // Refactor staking logic
 // Update dependencies for Vyper contract
+// Integrate Chainlink oracles
