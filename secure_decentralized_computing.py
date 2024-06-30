@@ -2,3 +2,4 @@
 // Implement on-chain identity verification
 // Improve contract state management
 // Fix security vulnerability in random number generation
+// Add native support for staking rewards
