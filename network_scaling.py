@@ -9,3 +9,4 @@
 // Enhance privacy features using zk-STARKs
 // Improve contract execution performance
 // Improve security for token minting contracts
+// Add support for multiple consensus mechanisms
