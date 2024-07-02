@@ -8,3 +8,4 @@
 // Implement automatic transaction retries
 // Add support for zk-SNARKs in smart contracts
 // Add multi-chain governance support
+// Enhance contract modularity for future upgrades
