@@ -5,3 +5,4 @@
 // Fix issues with gas optimization in smart contracts
 // Add support for batch transaction processing
 // Improve error handling in transaction flow
+// Integrate Chainlink oracles for price data
