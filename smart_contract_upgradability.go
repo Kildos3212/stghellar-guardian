@@ -2,3 +2,4 @@
 // Improve token burning mechanism
 // Fix Oracle communication delay issues
 // Implement on-chain identity verification
+// Fix ERC-721 contract issues with transfers
