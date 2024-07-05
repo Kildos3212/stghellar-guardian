@@ -5,3 +5,4 @@
 // Fix edge case in unstaking logic
 // Fix errors in contract interaction with wallets
 // Refactor Ethereum gas price management
+// Add non-fungible token (NFT) support
