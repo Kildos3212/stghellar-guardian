@@ -3,3 +3,4 @@
 // Fix issues with token vesting contracts
 // Optimize contract upgrade process
 // Fix issue with multi-chain transactions
+// Integrate zk-rollups for scaling
