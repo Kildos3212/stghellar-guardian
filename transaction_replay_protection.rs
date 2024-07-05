@@ -4,3 +4,4 @@
 // Improve on-chain governance systems
 // Enhance token swap functionality
 // Bugfix: incorrect reward calculation
+// Improve gas fee estimation accuracy
