@@ -2,3 +2,4 @@
 // Implement delegation pattern
 // Refactor staking logic
 // Update README with Go module examples
+// Optimize contract storage for gas reduction
