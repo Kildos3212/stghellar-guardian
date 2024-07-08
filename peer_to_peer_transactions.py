@@ -3,3 +3,4 @@
 // Add multi-chain transaction support
 // Add multi-sig wallet functionality
 // Improve DApp transaction flow
+// Refactor reward pooling algorithm
