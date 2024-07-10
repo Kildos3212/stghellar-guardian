@@ -3,3 +3,4 @@
 // Add support for decentralized marketplaces
 // Improve error handling in transaction flow
 // Enhance smart contract extensibility
+// Implement on-chain identity verification
