@@ -4,3 +4,4 @@
 // Improve contract modularity
 // Fix bugs in NFT metadata handling
 // Enhance governance contract flexibility
+// Add new feature: on-chain governance
