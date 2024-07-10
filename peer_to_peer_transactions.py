@@ -4,3 +4,4 @@
 // Add multi-sig wallet functionality
 // Improve DApp transaction flow
 // Refactor reward pooling algorithm
+// Improve token burning mechanism
