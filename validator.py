@@ -3,3 +3,4 @@
 // Implement decentralized arbitration in contracts
 // Refactor contract to use EIP-712 signatures
 // Add batch processing for transactions
+// Refactor incentive structure in DeFi protocol
