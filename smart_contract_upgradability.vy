@@ -6,3 +6,4 @@
 // Fix errors in contract interaction with wallets
 // Refactor Ethereum gas price management
 // Add non-fungible token (NFT) support
+// Integrate privacy-preserving mechanisms
