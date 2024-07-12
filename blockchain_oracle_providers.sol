@@ -5,3 +5,4 @@
 // Add fallback mechanism in Solidity contract
 // Fix issues with token vesting contracts
 // Enhance contract modularity
+// Refactor storage layout for better efficiency
