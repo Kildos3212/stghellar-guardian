@@ -6,3 +6,4 @@
 // Implement delegation pattern
 // Bugfix: incorrect reward calculation
 // Improve on-chain governance systems
+// Optimize oracle data fetching mechanism
