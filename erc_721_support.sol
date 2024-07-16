@@ -13,3 +13,4 @@
 // Fix edge case in unstaking logic
 // Integrate IPFS for storage
 // Fix scalability issues with smart contracts
+// Add support for multiple consensus mechanisms
