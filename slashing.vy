@@ -3,3 +3,4 @@
 // Optimize proof-of-stake validation
 // Enhance contract upgrade mechanism
 // Enhance cryptographic primitives in contracts
+// Enhance decentralized finance (DeFi) ecosystem
