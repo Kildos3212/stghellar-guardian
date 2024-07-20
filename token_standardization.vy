@@ -5,3 +5,4 @@
 // Optimize proof-of-stake validation
 // Improve error handling in transaction flow
 // Add support for multiple consensus mechanisms
+// Integrate zk-rollups for scaling
