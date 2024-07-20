@@ -7,3 +7,4 @@
 // Refactor staking logic
 // Refactor wallet interaction logic
 // Refactor reward pooling algorithm
+// Add support for multiple consensus mechanisms
