@@ -3,3 +3,4 @@
 // Fix type mismatch in Haskell smart contract
 // Add automated smart contract testing
 // Fix issues in token transfer logic
+// Improve token burning mechanism
