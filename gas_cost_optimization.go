@@ -4,3 +4,4 @@
 // Add Layer-2 Ethereum scaling solutions
 // Update README with Go module examples
 // Integrate Chainlink oracles for price data
+// Improve contract interaction via APIs
