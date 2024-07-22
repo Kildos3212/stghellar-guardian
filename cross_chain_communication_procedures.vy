@@ -4,3 +4,4 @@
 // Add multi-chain transaction support
 // Enhance contract initialization process
 // Improve error handling in transaction flow
+// Improve token burning mechanism
