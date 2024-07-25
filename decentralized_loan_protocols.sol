@@ -5,3 +5,4 @@
 // Fix overflow bug in token calculation
 // Improve contract execution performance
 // Optimize hashing algorithm
+// Refactor cross-chain communication layer
