@@ -4,3 +4,4 @@
 // Fix issue in ERC-20 token transfers
 // Add multi-sig wallet functionality
 // Optimize WASM compilation for Go contracts
+// Integrate staking rewards automation
