@@ -5,3 +5,4 @@
 // Integrate multi-chain liquidity pools
 // Fix issue in token vesting logic
 // Improve smart contract logging
+// Refactor decentralized storage system
