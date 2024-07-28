@@ -9,3 +9,4 @@
 // Refactor validator reward system
 // Fix vulnerabilities in staking contracts
 // Improve multi-chain contract deployment
+// Refactor incentive structure in DeFi protocol
