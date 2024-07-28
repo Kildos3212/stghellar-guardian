@@ -3,3 +3,4 @@
 // Refactor staking logic
 // Optimize decentralized application performance
 // Add support for Layer-2 solutions
+// Fix contract reentrancy issues
