@@ -3,3 +3,4 @@
 // Fix errors in NFT minting logic
 // Improve staking and yield farming logic
 // Add fallback mechanism in Solidity contract
+// Optimize storage for off-chain data
