@@ -6,3 +6,4 @@
 // Optimize WASM compilation for Go contracts
 // Enhance contract upgrade mechanism
 // Improve decentralized lending contract flexibility
+// Improve gas estimation for transactions
