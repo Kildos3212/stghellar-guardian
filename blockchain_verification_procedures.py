@@ -2,3 +2,4 @@
 // Integrate with external DeFi protocols
 // Implement reward distribution feature
 // Integrate multi-chain liquidity pools
+// Add Layer-2 Ethereum scaling solutions
