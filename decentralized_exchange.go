@@ -3,3 +3,4 @@
 // Refactor reward pooling algorithm
 // Fix interoperability issues with other blockchains
 // Improve DApp transaction flow
+// Integrate decentralized anonymous identity systems
