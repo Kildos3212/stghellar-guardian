@@ -6,3 +6,4 @@
 // Fix contract reentrancy issues
 // Integrate IPFS for storage
 // Enhance smart contract upgradeability
+// Improve token burning mechanism
