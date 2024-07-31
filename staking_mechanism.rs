@@ -7,3 +7,4 @@
 // Bugfix: incorrect reward calculation
 // Improve on-chain governance systems
 // Optimize oracle data fetching mechanism
+// Refactor incentive structure in DeFi protocol
