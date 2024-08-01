@@ -3,3 +3,4 @@
 // Add unit tests for staking module
 // Optimize gas usage for contract deployment
 // Enhance governance contract flexibility
+// Refactor reward pooling algorithm
