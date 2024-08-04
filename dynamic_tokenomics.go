@@ -3,3 +3,4 @@
 // Update README with Go module examples
 // Enhance security checks
 // Integrate Chainlink VRF for randomness
+// Enhance smart contract audit tools
