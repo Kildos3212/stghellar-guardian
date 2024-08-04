@@ -4,3 +4,4 @@
 // Fix errors in contract interaction with wallets
 // Enhance developer documentation
 // Upgrade to latest Solidity version
+// Refactor multi-signature wallet code
