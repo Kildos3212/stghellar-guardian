@@ -2,3 +2,4 @@
 // Improve contract interaction via APIs
 // Refactor decentralized exchange (DEX) code
 // Refactor reward pooling algorithm
+// Integrate flash loan functionality
