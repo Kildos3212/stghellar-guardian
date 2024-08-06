@@ -7,3 +7,4 @@
 // Add multi-sig wallet functionality
 // Fix interoperability issues with other blockchains
 // Refactor contract to use EIP-712 signatures
+// Fix issues with token vesting contracts
