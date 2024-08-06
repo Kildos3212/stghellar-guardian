@@ -3,3 +3,4 @@
 // Optimize proof-of-stake validation
 // Enhance contract state verification
 // Optimize contract upgrade process
+// Fix compatibility issues with major wallets
