@@ -2,3 +2,4 @@
 // Add support for Layer-2 solutions
 // Enhance gas fee management
 // Add support for cross-chain bridges
+// Add governance proposal expiration feature
