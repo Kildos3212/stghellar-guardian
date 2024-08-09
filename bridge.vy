@@ -8,3 +8,4 @@
 // Refactor governance proposal logic
 // Optimize hashing algorithm
 // Fix governance proposal approval logic
+// Implement price feed oracles for tokens
