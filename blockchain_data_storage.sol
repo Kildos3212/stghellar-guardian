@@ -8,3 +8,4 @@
 // Integrate zk-rollups for scaling
 // Enhance smart contract audit tools
 // Enhance contract interaction APIs
+// Add support for zk-SNARKs in smart contracts
