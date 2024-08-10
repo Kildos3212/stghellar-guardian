@@ -4,3 +4,4 @@
 // Improve contract execution speed
 // Add governance proposal expiration feature
 // Optimize WASM compilation for Go contracts
+// Enhance gas fee management
