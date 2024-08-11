@@ -5,3 +5,4 @@
 // Fix compatibility issues with major wallets
 // Integrate IPFS for storage
 // Optimize decentralized oracle performance
+// Optimize Oracle-based data fetching
