@@ -1,2 +1,3 @@
 // Code cleanup and documentation update
 // Fix vulnerabilities in staking contracts
+// Integrate Chainlink oracles for price data
