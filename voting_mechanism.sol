@@ -4,3 +4,4 @@
 // Fix security vulnerability in random number generation
 // Fix edge case in unstaking logic
 // Refactor governance proposal logic
+// Add support for decentralized insurance protocols
