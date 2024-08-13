@@ -4,3 +4,4 @@
 // Improve contract creation process
 // Add new RPC endpoint
 // Refactor token economics model
+// Integrate with decentralized identity providers
