@@ -3,3 +3,4 @@
 // Improve decentralized oracle protocols
 // Integrate decentralized anonymous identity systems
 // Improve contract state management
+// Fix race condition in staking pool
