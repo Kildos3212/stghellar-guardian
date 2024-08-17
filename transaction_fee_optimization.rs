@@ -6,3 +6,4 @@
 // Enhance transaction monitoring
 // Enhance gas fee management
 // Add governance proposal expiration feature
+// Reduce gas cost in minting logic
