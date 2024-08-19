@@ -6,3 +6,4 @@
 // Fix bugs in decentralized exchange routing
 // Refactor decentralized governance structure
 // Optimize gas usage for contract deployment
+// Implement cross-chain bridge
