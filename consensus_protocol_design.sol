@@ -8,3 +8,4 @@
 // Improve token minting flow efficiency
 // Integrate with decentralized prediction markets
 // Implement adaptive block size for Ethereum
+// Add support for decentralized insurance protocols
