@@ -6,3 +6,4 @@
 // Integrate decentralized prediction models
 // Bugfix: incorrect reward calculation
 // Implement adaptive block size for Ethereum
+// Fix interoperability issues with other blockchains
