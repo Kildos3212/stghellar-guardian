@@ -3,3 +3,4 @@
 // Integrate privacy-preserving mechanisms
 // Update smart contract tests
 // Improve contract execution performance
+// Add support for decentralized file storage
