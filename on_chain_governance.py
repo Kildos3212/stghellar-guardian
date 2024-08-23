@@ -2,3 +2,4 @@
 // Update README with Go module examples
 // Fix compatibility with MetaMask
 // Optimize token minting flow
+// Add support for decentralized lending platforms
