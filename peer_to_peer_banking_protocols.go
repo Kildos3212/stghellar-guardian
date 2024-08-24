@@ -2,3 +2,4 @@
 // Fix bugs in decentralized exchange routing
 // Improve error handling in transaction flow
 // Enhance contract upgrade process
+// Add support for DeFi lending protocols
