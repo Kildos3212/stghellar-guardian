@@ -5,3 +5,4 @@
 // Improve staking pool reward management
 // Refactor cross-chain communication layer
 // Fix bugs in multi-token systems
+// Add support for cross-chain bridges
