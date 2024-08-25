@@ -5,3 +5,4 @@
 // Integrate zk-rollups for scaling
 // Refactor decentralized governance structure
 // Fix interoperability issues with other blockchains
+// Add support for ERC-721A tokens
