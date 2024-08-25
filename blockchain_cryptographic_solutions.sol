@@ -3,3 +3,4 @@
 // Integrate IPFS for storage
 // Fix interoperability issues with other blockchains
 // Refactor decentralized storage system
+// Fix deserialization bug in Haskell code
