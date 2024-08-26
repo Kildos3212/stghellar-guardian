@@ -5,3 +5,4 @@
 // Update README with Go module examples
 // Integrate Chainlink oracles for price data
 // Improve contract interaction via APIs
+// Add support for decentralized lending platforms
