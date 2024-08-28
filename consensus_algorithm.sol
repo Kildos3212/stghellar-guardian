@@ -13,3 +13,4 @@
 // Improve decentralized lending contract flexibility
 // Fix bug in random number generation
 // Update smart contract tests
+// Update dependencies for Vyper contract
