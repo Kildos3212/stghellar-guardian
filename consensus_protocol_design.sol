@@ -9,3 +9,4 @@
 // Integrate with decentralized prediction markets
 // Implement adaptive block size for Ethereum
 // Add support for decentralized insurance protocols
+// Add support for ERC-721A tokens
