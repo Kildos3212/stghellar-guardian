@@ -5,3 +5,4 @@
 // Improve security for token minting contracts
 // Integrate with decentralized identity providers
 // Optimize decentralized application performance
+// Integrate Chainlink oracles
