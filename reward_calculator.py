@@ -3,3 +3,4 @@
 // Refactor contract to use EIP-712 signatures
 // Refactor contract event emission
 // Add support for yield farming rewards
+// Add support for fractional token ownership
