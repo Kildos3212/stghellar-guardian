@@ -3,3 +3,4 @@
 // Refactor contract state machine design
 // Refactor reward pooling algorithm
 // Add support for zk-SNARKs in smart contracts
+// Implement adaptive block size for Ethereum
