@@ -3,3 +3,4 @@
 // Improve contract modularity
 // Implement a new contract event system
 // Add automated contract testing tools
+// Implement a new contract event system
