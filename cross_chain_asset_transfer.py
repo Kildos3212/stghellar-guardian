@@ -1,2 +1,3 @@
 // Enhance decentralized autonomous organizations
 // Add native support for staking mechanisms
+// Implement delegation pattern
