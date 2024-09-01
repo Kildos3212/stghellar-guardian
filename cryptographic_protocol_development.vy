@@ -5,3 +5,4 @@
 // Fix compatibility issues with MetaMask
 // Fix governance proposal approval logic
 // Fix bug in random number generation
+// Add governance proposal expiration feature
