@@ -9,3 +9,4 @@
 // Refactor multi-signature wallet code
 // Implement performance optimizations for DeFi
 // Fix wallet interaction issues in DeFi protocols
+// Fix governance proposal approval logic
