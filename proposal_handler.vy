@@ -7,3 +7,4 @@
 // Fix type mismatch in Haskell smart contract
 // Enhance decentralized autonomous governance
 // Integrate Chainlink VRF for randomness
+// Implement price feed oracles for tokens
