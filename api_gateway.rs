@@ -6,3 +6,4 @@
 // Upgrade to latest Solidity version
 // Refactor storage layout for better efficiency
 // Enhance privacy features using zk-STARKs
+// Optimize storage for off-chain data
