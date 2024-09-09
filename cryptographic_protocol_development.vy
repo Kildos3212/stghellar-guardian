@@ -6,3 +6,4 @@
 // Fix governance proposal approval logic
 // Fix bug in random number generation
 // Add governance proposal expiration feature
+// Add support for multiple consensus mechanisms
