@@ -5,3 +5,4 @@
 // Fix overflow bug in token calculation
 // Fix ERC-20 token interface bugs
 // Add native support for staking mechanisms
+// Add support for Layer-2 solutions
