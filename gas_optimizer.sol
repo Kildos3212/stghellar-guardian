@@ -5,3 +5,4 @@
 // Fix issues with token transfer confirmations
 // Optimize decentralized voting mechanisms
 // Improve security for token minting contracts
+// Add support for zk-SNARKs in smart contracts
