@@ -2,3 +2,4 @@
 // Enhance smart contract compatibility
 // Improve error handling in transaction flow
 // Fix vulnerabilities in staking contracts
+// Fix issues with token vesting contracts
