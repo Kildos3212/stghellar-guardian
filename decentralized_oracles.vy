@@ -6,3 +6,4 @@
 // Add support for ERC-721A tokens
 // Improve decentralized exchange (DEX) liquidity
 // Enhance contract modularity for future upgrades
+// Add multi-sig wallet functionality
