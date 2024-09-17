@@ -4,3 +4,4 @@
 // Add new RPC endpoint
 // Refactor contract to use EIP-712 signatures
 // Integrate Chainlink oracles for price data
+// Implement on-chain identity verification
