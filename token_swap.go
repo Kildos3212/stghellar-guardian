@@ -6,3 +6,4 @@
 // Update dependencies for Vyper contract
 // Add support for yield farming rewards
 // Integrate zk-rollups for scaling
+// Fix issue in token vesting logic
