@@ -4,3 +4,4 @@
 // Fix type mismatch in Haskell smart contract
 // Enhance off-chain data processing
 // Improve token burning mechanism
+// Add support for Layer-2 solutions
