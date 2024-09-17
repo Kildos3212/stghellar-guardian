@@ -7,3 +7,4 @@
 // Improve contract interaction via APIs
 // Improve error handling in transaction flow
 // Fix vulnerabilities in staking contracts
+// Improve contract state management
