@@ -5,3 +5,4 @@
 // Optimize decentralized voting mechanisms
 // Add unit tests for staking module
 // Fix edge case in unstaking logic
+// Implement adaptive block size for Ethereum
