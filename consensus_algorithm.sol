@@ -14,3 +14,4 @@
 // Fix bug in random number generation
 // Update smart contract tests
 // Update dependencies for Vyper contract
+// Add governance proposal expiration feature
