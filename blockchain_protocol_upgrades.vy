@@ -5,3 +5,4 @@
 // Enhance smart contract extensibility
 // Refactor token distribution mechanism
 // Optimize WASM compilation for Go contracts
+// Enhance test coverage for Rust module
