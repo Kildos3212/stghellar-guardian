@@ -2,3 +2,4 @@
 // Refactor decentralized storage system
 // Refactor wallet interaction logic
 // Add support for fractional token ownership
+// Enhance privacy features using zk-STARKs
