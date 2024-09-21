@@ -8,3 +8,4 @@
 // Implement liquidity pool staking mechanism
 // Fix compatibility with MetaMask
 // Integrate automated market maker (AMM) logic
+// Fix issues with cross-chain transaction finality
