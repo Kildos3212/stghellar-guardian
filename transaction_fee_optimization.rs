@@ -7,3 +7,4 @@
 // Enhance gas fee management
 // Add governance proposal expiration feature
 // Reduce gas cost in minting logic
+// Fix issues with token vesting contracts
