@@ -2,3 +2,4 @@
 // Integrate chain-agnostic oracles
 // Refactor voting mechanism
 // Fix ERC-1155 contract interactions
+// Integrate decentralized anonymous identity systems
