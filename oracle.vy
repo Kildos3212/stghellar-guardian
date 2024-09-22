@@ -7,3 +7,4 @@
 // Update README with Go module examples
 // Add support for multi-signature wallet contracts
 // Add support for delegation in governance
+// Add dynamic contract upgrade mechanisms
