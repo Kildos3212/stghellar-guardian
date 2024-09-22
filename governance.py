@@ -8,3 +8,4 @@
 // Integrate multi-chain liquidity pools
 // Optimize storage for off-chain data
 // Implement rewards escrow system
+// Add unit tests for staking module
