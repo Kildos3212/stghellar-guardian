@@ -9,3 +9,4 @@
 // Optimize hashing algorithm
 // Fix governance proposal approval logic
 // Implement price feed oracles for tokens
+// Fix ERC-721 contract issues with transfers
