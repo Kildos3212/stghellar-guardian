@@ -3,3 +3,4 @@
 // Improve contract modularity
 // Implement liquidity pool staking mechanism
 // Add support for decentralized auctions
+// Implement contract function batching
