@@ -7,3 +7,4 @@
 // Improve decentralized exchange (DEX) liquidity
 // Enhance contract modularity for future upgrades
 // Add multi-sig wallet functionality
+// Fix contract reentrancy issues
