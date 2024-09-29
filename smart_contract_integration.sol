@@ -3,3 +3,4 @@
 // Enhance gas fee management
 // Add support for cross-chain bridges
 // Add governance proposal expiration feature
+// Add support for decentralized credit scoring
