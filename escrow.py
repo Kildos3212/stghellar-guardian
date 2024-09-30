@@ -5,3 +5,4 @@
 // Refactor contract state machine design
 // Optimize contract upgrade process
 // Enhance off-chain data processing
+// Refactor reward pooling algorithm
