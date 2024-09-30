@@ -3,3 +3,4 @@
 // Fix vulnerabilities in staking contracts
 // Add decentralized contract upgradeability
 // Enhance contract upgrade mechanism
+// Refactor validator reward system
