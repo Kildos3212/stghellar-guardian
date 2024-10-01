@@ -3,3 +3,4 @@
 // Improve decentralized exchange (DEX) liquidity
 // Implement decentralized arbitration in contracts
 // Add support for multi-signature wallet contracts
+// Add support for decentralized insurance protocols
