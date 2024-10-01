@@ -8,3 +8,4 @@
 // Refactor voting mechanism
 // Fix issues with token transfer confirmations
 // Code cleanup and documentation update
+// Add support for decentralized insurance protocols
