@@ -3,3 +3,4 @@
 // Add automated contract testing tools
 // Fix issues with contract finalization
 // Optimize Oracle-based data fetching
+// Integrate IPFS for storage
