@@ -5,3 +5,4 @@
 // Add slashing mechanism for malicious actors
 // Enhance developer documentation
 // Add automated smart contract testing
+// Add batch processing for transactions
