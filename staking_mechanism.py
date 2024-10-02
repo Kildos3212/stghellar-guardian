@@ -7,3 +7,4 @@
 // Refactor incentive structure in DeFi protocol
 // Optimize token burn process
 // Implement zero-knowledge proof (ZKP) support
+// Add support for DeFi lending protocols
