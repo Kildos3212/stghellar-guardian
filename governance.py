@@ -9,3 +9,4 @@
 // Optimize storage for off-chain data
 // Implement rewards escrow system
 // Add unit tests for staking module
+// Implement contract function batching
