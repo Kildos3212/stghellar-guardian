@@ -6,3 +6,4 @@
 // Add support for decentralized credit scoring
 // Add governance proposal expiration feature
 // Optimize hashing algorithm
+// Add multi-sig wallet functionality
