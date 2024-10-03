@@ -8,3 +8,4 @@
 // Enhance smart contract upgradeability
 // Refactor cross-chain communication layer
 // Fix issues with token transfer confirmations
+// Fix issue in token vesting logic
