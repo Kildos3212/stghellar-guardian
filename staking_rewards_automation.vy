@@ -3,3 +3,4 @@
 // Optimize token minting flow
 // Enhance smart contract upgradeability
 // Add governance proposal expiration feature
+// Implement on-chain identity verification
