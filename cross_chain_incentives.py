@@ -5,3 +5,4 @@
 // Enhance off-chain data processing
 // Improve token burning mechanism
 // Add support for Layer-2 solutions
+// Refactor cross-chain communication layer
