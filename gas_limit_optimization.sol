@@ -4,3 +4,4 @@
 // Integrate privacy-preserving mechanisms
 // Implement liquidity pool staking mechanism
 // Improve DApp transaction flow
+// Implement on-chain identity verification
