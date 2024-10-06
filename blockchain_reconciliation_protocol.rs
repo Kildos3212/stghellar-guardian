@@ -2,3 +2,4 @@
 // Fix security vulnerability in random number generation
 // Fix errors in NFT minting logic
 // Fix memory leak in Rust smart contract
+// Update README with Go module examples
