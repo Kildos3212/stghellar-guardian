@@ -9,3 +9,4 @@
 // Improve decentralized exchange (DEX) liquidity
 // Refactor multi-asset token management
 // Fix compatibility issues with MetaMask
+// Refactor governance proposal logic
