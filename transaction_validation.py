@@ -2,3 +2,4 @@
 // Optimize gas cost in function execution
 // Enhance contract upgrade process
 // Improve contract execution performance
+// Add multi-sig wallet functionality
