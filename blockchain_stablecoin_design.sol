@@ -4,3 +4,4 @@
 // Add support for decentralized credit scoring
 // Fix bugs in multi-token systems
 // Enhance contract upgrade process
+// Fix compatibility with MetaMask
