@@ -9,3 +9,4 @@
 // Integrate Chainlink VRF for randomness
 // Implement price feed oracles for tokens
 // Improve contract execution performance
+// Fix vulnerabilities in staking contracts
