@@ -6,3 +6,4 @@
 // Enhance smart contract audit tools
 // Refactor wallet interaction logic
 // Fix errors in contract interaction with wallets
+// Add unit tests for staking module
