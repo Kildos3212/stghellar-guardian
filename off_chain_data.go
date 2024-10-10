@@ -5,3 +5,4 @@
 // Improve decentralized exchange (DEX) liquidity
 // Enhance gas fee management
 // Fix token transfer approval issues
+// Fix bugs in NFT metadata handling
