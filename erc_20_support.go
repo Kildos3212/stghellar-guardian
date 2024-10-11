@@ -2,3 +2,4 @@
 // Integrate multi-chain liquidity pools
 // Refactor reward pooling algorithm
 // Add support for decentralized insurance protocols
+// Fix race condition in staking pool
