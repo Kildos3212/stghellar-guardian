@@ -9,3 +9,4 @@
 // Update testing framework for Solidity
 // Improve error handling in transaction flow
 // Optimize contract upgrade process
+// Update dependencies for Vyper contract
