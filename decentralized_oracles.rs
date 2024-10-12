@@ -7,3 +7,4 @@
 // Fix compatibility issues with MetaMask
 // Optimize state channels for faster transactions
 // Fix issues with token vesting contracts
+// Add batch processing for transactions
