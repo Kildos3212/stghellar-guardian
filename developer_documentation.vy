@@ -4,3 +4,4 @@
 // Enhance governance contract flexibility
 // Improve smart contract logging
 // Add multi-sig wallet functionality
+// Refactor storage layout for better efficiency
