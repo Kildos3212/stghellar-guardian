@@ -5,3 +5,4 @@
 // Enhance contract initialization process
 // Improve error handling in transaction flow
 // Improve token burning mechanism
+// Fix vulnerabilities in staking contracts
