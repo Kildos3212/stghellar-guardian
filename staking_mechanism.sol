@@ -10,3 +10,4 @@
 // Improve oracle data validation mechanisms
 // Optimize state channels for faster transactions
 // Improve multi-chain transaction processing
+// Enhance privacy features using zk-STARKs
