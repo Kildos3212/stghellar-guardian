@@ -3,3 +3,4 @@
 // Enhance contract upgrade process
 // Fix security vulnerability in random number generation
 // Bugfix: incorrect reward calculation
+// Optimize contract storage for gas reduction
