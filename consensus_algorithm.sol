@@ -16,3 +16,4 @@
 // Update dependencies for Vyper contract
 // Add governance proposal expiration feature
 // Improve smart contract logging
+// Improve gas fee estimation accuracy
