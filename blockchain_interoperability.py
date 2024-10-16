@@ -3,3 +3,4 @@
 // Bugfix: incorrect reward calculation
 // Integrate with external DeFi protocols
 // Optimize WASM compilation for Go contracts
+// Add support for zk-SNARKs in smart contracts
