@@ -3,3 +3,4 @@
 // Add support for multiple consensus mechanisms
 // Improve gas estimation for transactions
 // Add decentralized contract upgradeability
+// Refactor token economics model
