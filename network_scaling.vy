@@ -5,3 +5,4 @@
 // Fix compatibility with MetaMask
 // Implement dynamic fee adjustment
 // Fix Oracle communication delay issues
+// Refactor decentralized storage system
