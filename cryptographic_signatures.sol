@@ -4,3 +4,4 @@
 // Fix governance proposal approval logic
 // Fix compatibility with MetaMask
 // Implement rewards escrow system
+// Improve contract auditing tools
