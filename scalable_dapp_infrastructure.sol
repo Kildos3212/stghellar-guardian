@@ -4,3 +4,4 @@
 // Improve gas estimation for transactions
 // Add decentralized contract upgradeability
 // Refactor token economics model
+// Improve staking logic for better rewards
