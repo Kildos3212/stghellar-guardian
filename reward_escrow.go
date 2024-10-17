@@ -7,3 +7,4 @@
 // Add support for multi-signature wallet contracts
 // Update testing framework for Solidity
 // Optimize gas usage in smart contracts
+// Add governance proposal expiration feature
