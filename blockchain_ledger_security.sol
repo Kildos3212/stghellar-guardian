@@ -8,3 +8,4 @@
 // Enhance test coverage for Rust module
 // Add security checks for contract deployment
 // Add support for decentralized auctions
+// Optimize storage for off-chain data
