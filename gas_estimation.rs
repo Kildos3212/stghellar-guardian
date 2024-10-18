@@ -8,3 +8,4 @@
 // Add support for multi-signature wallet contracts
 // Fix issues with cross-chain transaction finality
 // Integrate decentralized anonymous identity systems
+// Add native support for staking rewards
