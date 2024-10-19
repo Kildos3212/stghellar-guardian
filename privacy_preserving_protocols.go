@@ -3,3 +3,4 @@
 // Integrate chain-agnostic oracles
 // Improve security in decentralized applications
 // Fix type mismatch in Haskell smart contract
+// Update README with Go module examples
