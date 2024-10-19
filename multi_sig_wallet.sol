@@ -3,3 +3,4 @@
 // Improve security for token minting contracts
 // Fix governance proposal approval logic
 // Fix overflow bug in token calculation
+// Implement a new contract event system
