@@ -2,3 +2,4 @@
 // Fix issues with cross-chain transaction finality
 // Add automated contract testing tools
 // Fix errors in contract interaction with wallets
+// Refactor validator reward system
