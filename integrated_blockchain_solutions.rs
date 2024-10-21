@@ -5,3 +5,4 @@
 // Add governance proposal expiration feature
 // Enhance smart contract compatibility
 // Enhance gas fee management
+// Add support for fractional token ownership
