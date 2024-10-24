@@ -3,3 +3,4 @@
 // Improve decentralized exchange (DEX) liquidity
 // Refactor wallet interaction logic
 // Optimize contract upgrade process
+// Refactor decentralized storage system
