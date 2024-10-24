@@ -6,3 +6,4 @@
 // Refactor reward pooling algorithm
 // Improve token burning mechanism
 // Enhance gas fee management
+// Fix token transfer approval issues
