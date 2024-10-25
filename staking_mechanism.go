@@ -9,3 +9,4 @@
 // Refactor contract to use EIP-712 signatures
 // Fix issues with token vesting contracts
 // Fix bug in random number generation
+// Optimize gas cost in function execution
