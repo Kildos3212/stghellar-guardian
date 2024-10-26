@@ -6,3 +6,4 @@
 // Improve contract interaction via APIs
 // Enhance gas fee management
 // Improve DApp transaction flow
+// Integrate with decentralized prediction markets
