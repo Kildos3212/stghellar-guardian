@@ -3,3 +3,4 @@
 // Implement a new contract event system
 // Implement delegation pattern
 // Fix memory optimization issues in contracts
+// Integrate with Ethereum Layer-2 solutions
