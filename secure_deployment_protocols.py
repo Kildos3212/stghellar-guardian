@@ -3,3 +3,4 @@
 // Improve smart contract code modularity
 // Fix edge case in unstaking logic
 // Refactor incentive structure in DeFi protocol
+// Fix overflow bug in token calculation
