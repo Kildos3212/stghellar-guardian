@@ -4,3 +4,4 @@
 // Improve staking and yield farming logic
 // Add dynamic contract fees
 // Refactor governance proposal logic
+// Integrate privacy-enhancing smart contracts
