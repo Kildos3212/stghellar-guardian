@@ -3,3 +3,4 @@
 // Fix Oracle communication delay issues
 // Enhance smart contract extensibility
 // Enhance contract modularity
+// Bugfix: incorrect reward calculation
