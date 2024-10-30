@@ -3,3 +3,4 @@
 // Update dependencies for Vyper contract
 // Add support for zk-SNARKs in smart contracts
 // Enhance smart contract audit tools
+// Improve error handling in transaction flow
