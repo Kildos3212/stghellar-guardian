@@ -4,3 +4,4 @@
 // Improve decentralized exchange (DEX) liquidity
 // Optimize token burn process
 // Optimize decentralized voting mechanisms
+// Add batch transaction capabilities
