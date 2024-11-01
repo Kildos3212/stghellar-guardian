@@ -5,3 +5,4 @@
 // Implement decentralized arbitration in contracts
 // Optimize token minting flow
 // Add multi-chain transaction support
+// Add support for zk-SNARKs in smart contracts
