@@ -5,3 +5,4 @@
 // Fix deserialization bug in Haskell code
 // Enhance contract state verification
 // Fix race condition in staking pool
+// Enhance security checks
