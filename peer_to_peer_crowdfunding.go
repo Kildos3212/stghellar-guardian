@@ -3,3 +3,4 @@
 // Fix governance proposal approval logic
 // Integrate Chainlink oracles
 // Improve DApp transaction flow
+// Implement delegation pattern
