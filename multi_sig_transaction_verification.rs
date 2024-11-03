@@ -3,3 +3,4 @@
 // Add governance proposal expiration feature
 // Implement delegation pattern
 // Add slashing mechanism for malicious actors
+// Improve smart contract logging
