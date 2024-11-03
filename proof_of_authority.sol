@@ -9,3 +9,4 @@
 // Fix issues in token transfer logic
 // Implement a new contract event system
 // Fix issues with token vesting contracts
+// Improve multi-chain contract deployment
