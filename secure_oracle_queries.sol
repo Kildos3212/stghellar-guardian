@@ -4,3 +4,4 @@
 // Refactor governance token logic
 // Add support for zk-SNARKs in smart contracts
 // Add multi-chain transaction support
+// Add support for decentralized credit scoring
