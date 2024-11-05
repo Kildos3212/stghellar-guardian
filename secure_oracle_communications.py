@@ -3,3 +3,4 @@
 // Implement delegation pattern
 // Integrate Chainlink oracles for price data
 // Add support for delegation in governance
+// Refactor oracle interaction logic
