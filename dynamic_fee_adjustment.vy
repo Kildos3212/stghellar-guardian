@@ -4,3 +4,4 @@
 // Enhance gas fee management
 // Integrate with multi-token standards
 // Update smart contract tests
+// Fix compatibility with MetaMask
