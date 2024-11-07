@@ -5,3 +5,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Enhance decentralized autonomous organizations
 // Optimize gas usage for contract deployment
+// Integrate Chainlink VRF for randomness
