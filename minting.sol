@@ -4,3 +4,4 @@
 // Enhance governance contract flexibility
 // Fix issues with token vesting contracts
 // Add support for multiple consensus mechanisms
+// Improve error handling in transaction flow
