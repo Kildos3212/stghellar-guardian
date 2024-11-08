@@ -4,3 +4,4 @@
 // Implement cross-chain bridge
 // Fix errors in NFT minting logic
 // Optimize decentralized oracle performance
+// Improve gas estimation for transactions
