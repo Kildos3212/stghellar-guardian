@@ -7,3 +7,4 @@
 // Fix type mismatch in Haskell smart contract
 // Add support for decentralized insurance protocols
 // Optimize hashing algorithm
+// Add support for Layer-2 solutions
