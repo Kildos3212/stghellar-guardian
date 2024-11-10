@@ -4,3 +4,4 @@
 // Fix governance proposal approval logic
 // Integrate IPFS for storage
 // Improve smart contract logging
+// Improve error handling in transaction flow
