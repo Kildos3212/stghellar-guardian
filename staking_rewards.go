@@ -4,3 +4,4 @@
 // Fix security vulnerability in random number generation
 // Bugfix: incorrect reward calculation
 // Optimize contract storage for gas reduction
+// Add fallback mechanism in Solidity contract
