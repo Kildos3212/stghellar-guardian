@@ -8,3 +8,4 @@
 // Update testing framework for Solidity
 // Optimize gas usage in smart contracts
 // Add governance proposal expiration feature
+// Fix governance proposal approval logic
