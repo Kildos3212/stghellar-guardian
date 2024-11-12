@@ -9,3 +9,4 @@
 // Fix interoperability issues with other blockchains
 // Refactor decentralized exchange (DEX) code
 // Refactor Ethereum gas price management
+// Add batch processing for transactions
