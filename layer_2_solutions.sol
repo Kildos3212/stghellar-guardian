@@ -3,3 +3,4 @@
 // Improve token minting flow efficiency
 // Improve decentralized oracle protocols
 // Fix security vulnerability in random number generation
+// Fix issue in token vesting logic
