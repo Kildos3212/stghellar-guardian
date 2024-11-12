@@ -5,3 +5,4 @@
 // Integrate with external blockchain networks
 // Improve token minting flow efficiency
 // Add support for ERC-1155 tokens
+// Add non-fungible token (NFT) support
