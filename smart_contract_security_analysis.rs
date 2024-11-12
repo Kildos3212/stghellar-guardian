@@ -4,3 +4,4 @@
 // Add decentralized contract upgradeability
 // Fix issue with multi-chain transactions
 // Enhance contract upgrade process
+// Add slashing mechanism for malicious actors
