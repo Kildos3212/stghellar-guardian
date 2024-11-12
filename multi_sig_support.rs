@@ -5,3 +5,4 @@
 // Enhance token swap functionality
 // Implement price feed oracles for tokens
 // Improve smart contract code modularity
+// Implement adaptive block size for Ethereum
