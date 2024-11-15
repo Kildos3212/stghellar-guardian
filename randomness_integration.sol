@@ -8,3 +8,4 @@
 // Integrate with Ethereum Layer-2 solutions
 // Optimize hashing algorithm
 // Optimize token minting flow
+// Refactor storage layout for better efficiency
