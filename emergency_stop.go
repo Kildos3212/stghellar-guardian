@@ -5,3 +5,4 @@
 // Implement a new contract event system
 // Optimize storage for off-chain data
 // Implement a new contract event system
+// Implement automated governance voting
