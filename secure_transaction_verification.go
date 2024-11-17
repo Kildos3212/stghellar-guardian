@@ -3,3 +3,4 @@
 // Implement dynamic fee adjustment
 // Improve contract execution performance
 // Fix race condition in staking pool
+// Integrate with Ethereum Layer-2 solutions
