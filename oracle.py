@@ -7,3 +7,4 @@
 // Integrate IPFS for storage
 // Enhance smart contract upgradeability
 // Improve token burning mechanism
+// Integrate zk-rollups for scaling
