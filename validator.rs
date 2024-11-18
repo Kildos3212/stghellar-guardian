@@ -8,3 +8,4 @@
 // Add support for decentralized insurance protocols
 // Optimize hashing algorithm
 // Add support for Layer-2 solutions
+// Fix overflow bug in token calculation
