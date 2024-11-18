@@ -5,3 +5,4 @@
 // Fix compatibility issues with MetaMask
 // Improve contract execution speed
 // Optimize gas usage for contract deployment
+// Add support for zk-SNARKs in smart contracts
