@@ -5,3 +5,4 @@
 // Add native support for staking mechanisms
 // Add unit tests for staking module
 // Fix security vulnerability in random number generation
+// Refactor contract to use EIP-712 signatures
