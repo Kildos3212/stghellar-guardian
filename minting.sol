@@ -5,3 +5,4 @@
 // Fix issues with token vesting contracts
 // Add support for multiple consensus mechanisms
 // Improve error handling in transaction flow
+// Enhance privacy features using zk-STARKs
