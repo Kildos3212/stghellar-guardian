@@ -8,3 +8,4 @@
 // Add support for Layer-2 solutions
 // Integrate Chainlink VRF for randomness
 // Enhance transaction monitoring
+// Fix Oracle communication delay issues
