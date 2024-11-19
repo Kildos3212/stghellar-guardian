@@ -5,3 +5,4 @@
 // Add dynamic contract fees
 // Refactor governance proposal logic
 // Integrate privacy-enhancing smart contracts
+// Add support for decentralized marketplaces
