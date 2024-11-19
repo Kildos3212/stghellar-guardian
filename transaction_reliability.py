@@ -3,3 +3,4 @@
 // Fix overflow bug in token calculation
 // Fix transaction replay issue
 // Add support for cross-chain bridges
+// Add support for ERC-1155 tokens
