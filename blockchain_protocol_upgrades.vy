@@ -6,3 +6,4 @@
 // Refactor token distribution mechanism
 // Optimize WASM compilation for Go contracts
 // Enhance test coverage for Rust module
+// Improve security for token minting contracts
