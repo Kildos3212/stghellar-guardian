@@ -4,3 +4,4 @@
 // Implement delegation pattern
 // Fix overflow bug in token calculation
 // Improve scalability for smart contract platforms
+// Integrate zk-rollups for scaling
