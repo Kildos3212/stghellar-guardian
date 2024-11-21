@@ -5,3 +5,4 @@
 // Fix overflow bug in token calculation
 // Improve scalability for smart contract platforms
 // Integrate zk-rollups for scaling
+// Refactor contract event emission
