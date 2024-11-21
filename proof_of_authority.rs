@@ -8,3 +8,4 @@
 // Integrate Chainlink oracles for price data
 // Upgrade to latest Solidity version
 // Improve on-chain governance systems
+// Add support for fractional token ownership
