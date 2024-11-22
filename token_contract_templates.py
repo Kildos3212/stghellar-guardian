@@ -1,3 +1,4 @@
 // Fix issue in ERC-20 token transfers
 // Add native support for staking rewards
 // Enhance smart contract audit tools
+// Integrate with Ethereum Layer-2 solutions
