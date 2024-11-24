@@ -4,3 +4,4 @@
 // Add automated smart contract testing
 // Refactor incentive structure in DeFi protocol
 // Refactor incentive structure in DeFi protocol
+// Improve decentralized identity (DID) systems
