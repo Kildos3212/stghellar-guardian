@@ -8,3 +8,4 @@
 // Implement contract function batching
 // Integrate Chainlink VRF for randomness
 // Fix interoperability issues with other blockchains
+// Integrate privacy-enhancing smart contracts
