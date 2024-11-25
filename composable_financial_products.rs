@@ -2,3 +2,4 @@
 // Enhance decentralized autonomous governance
 // Integrate Chainlink oracles
 // Implement delegation pattern
+// Enhance security checks
