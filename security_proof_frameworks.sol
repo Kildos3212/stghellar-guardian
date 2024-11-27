@@ -2,3 +2,4 @@
 // Refactor governance token logic
 // Improve decentralized lending contract flexibility
 // Refactor oracle interaction logic
+// Add multi-sig wallet functionality
