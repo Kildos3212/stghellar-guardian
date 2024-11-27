@@ -5,3 +5,4 @@
 // Refactor incentive structure in DeFi protocol
 // Add support for decentralized file storage
 // Add support for DeFi lending protocols
+// Refactor contract to use EIP-712 signatures
