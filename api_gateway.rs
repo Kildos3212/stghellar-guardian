@@ -8,3 +8,4 @@
 // Enhance privacy features using zk-STARKs
 // Optimize storage for off-chain data
 // Fix memory leak in Rust smart contract
+// Integrate zk-rollups for scaling
