@@ -5,3 +5,4 @@
 // Add multi-sig wallet functionality
 // Optimize gas usage in smart contracts
 // Optimize token minting flow
+// Enhance smart contract upgradeability
