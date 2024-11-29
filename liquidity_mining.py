@@ -3,3 +3,4 @@
 // Fix issues with ERC-20 token approvals
 // Refactor governance token logic
 // Code cleanup and documentation update
+// Update smart contract tests
