@@ -3,3 +3,4 @@
 // Implement a new contract event system
 // Integrate Chainlink VRF for randomness
 // Enhance contract initialization process
+// Enhance smart contract state changes monitoring
