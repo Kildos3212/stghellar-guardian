@@ -9,3 +9,4 @@
 // Optimize hashing algorithm
 // Optimize token minting flow
 // Refactor storage layout for better efficiency
+// Refactor governance token logic
