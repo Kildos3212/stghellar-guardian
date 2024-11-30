@@ -9,3 +9,4 @@
 // Refactor contract to use EIP-712 signatures
 // Optimize gas usage for contract deployment
 // Update README with Go module examples
+// Add batch processing for transactions
