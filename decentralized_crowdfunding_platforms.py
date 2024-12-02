@@ -3,3 +3,4 @@
 // Add support for yield farming rewards
 // Fix issue in token vesting logic
 // Enhance developer documentation
+// Add support for ERC-1155 tokens
