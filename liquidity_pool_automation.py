@@ -3,3 +3,4 @@
 // Code cleanup and documentation update
 // Integrate automated market maker (AMM) logic
 // Integrate automated market maker (AMM) logic
+// Refactor incentive structure in DeFi protocol
