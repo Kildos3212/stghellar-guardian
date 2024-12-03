@@ -9,3 +9,4 @@
 // Optimize oracle data fetching mechanism
 // Refactor incentive structure in DeFi protocol
 // Refactor contract to use EIP-712 signatures
+// Fix errors in contract interaction with wallets
