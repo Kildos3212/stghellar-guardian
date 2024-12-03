@@ -4,3 +4,4 @@
 // Refactor contract event emission
 // Add support for yield farming rewards
 // Add support for fractional token ownership
+// Implement cross-chain bridge
