@@ -8,3 +8,4 @@
 // Implement on-chain identity verification
 // Fix bugs in NFT metadata handling
 // Fix issues with cross-chain transaction finality
+// Improve contract interaction via APIs
