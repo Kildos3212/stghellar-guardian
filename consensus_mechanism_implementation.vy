@@ -4,3 +4,4 @@
 // Fix bugs in multi-token systems
 // Optimize gas usage for contract deployment
 // Add support for zk-SNARKs in smart contracts
+// Integrate IPFS for storage
