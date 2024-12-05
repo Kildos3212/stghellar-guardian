@@ -7,3 +7,4 @@
 // Refactor incentive structure in DeFi protocol
 // Improve decentralized lending contract flexibility
 // Fix errors in NFT minting logic
+// Refactor validator reward system
