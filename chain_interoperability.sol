@@ -7,3 +7,4 @@
 // Refactor contract to use EIP-712 signatures
 // Enhance logging for better debugging
 // Enhance off-chain data processing
+// Add support for NFT marketplaces
