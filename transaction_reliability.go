@@ -7,3 +7,4 @@
 // Integrate IPFS for storage
 // Add support for NFT marketplaces
 // Add new feature: on-chain governance
+// Optimize gas usage in smart contracts
