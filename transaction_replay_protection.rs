@@ -7,3 +7,4 @@
 // Improve gas fee estimation accuracy
 // Fix bug in random number generation
 // Add native support for staking mechanisms
+// Improve DApp transaction flow
