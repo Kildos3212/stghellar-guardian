@@ -3,3 +3,4 @@
 // Integrate Chainlink VRF for randomness
 // Enhance privacy features using zk-STARKs
 // Refactor reward pooling algorithm
+// Add automated contract testing tools
