@@ -6,3 +6,4 @@
 // Implement rewards escrow system
 // Implement automated governance voting
 // Refactor smart contract testing framework
+// Fix issue in ERC-20 token transfers
