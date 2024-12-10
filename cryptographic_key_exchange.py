@@ -3,3 +3,4 @@
 // Integrate flash loan functionality
 // Refactor validator reward system
 // Integrate zk-rollups for scaling
+// Refactor token distribution mechanism
