@@ -11,3 +11,4 @@
 // Fix bug in random number generation
 // Optimize gas cost in function execution
 // Update testing framework for Solidity
+// Fix issue in token vesting logic
