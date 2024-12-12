@@ -1,2 +1,3 @@
 // Integrate with Ethereum Layer-2 solutions
 // Fix type mismatch in Haskell smart contract
+// Fix token transfer approval issues
