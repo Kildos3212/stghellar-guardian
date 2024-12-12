@@ -6,3 +6,4 @@
 // Add support for Layer-2 solutions
 // Improve contract interaction via APIs
 // Fix compatibility issues with MetaMask
+// Enhance privacy features using zk-STARKs
