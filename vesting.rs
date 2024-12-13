@@ -15,3 +15,4 @@
 // Integrate with decentralized prediction markets
 // Refactor governance proposal logic
 // Fix compatibility issues with major wallets
+// Fix Oracle communication delay issues
