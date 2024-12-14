@@ -7,3 +7,4 @@
 // Fix compatibility with MetaMask
 // Improve contract state management
 // Add gas optimization features for smart contracts
+// Improve gas estimation for transactions
