@@ -11,3 +11,4 @@
 // Add support for decentralized insurance protocols
 // Add support for ERC-721A tokens
 // Add native support for staking mechanisms
+// Fix oracle data delays in decentralized apps
