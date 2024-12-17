@@ -4,3 +4,4 @@
 // Integrate decentralized prediction models
 // Improve API rate limiting
 // Fix race condition in staking pool
+// Add support for multiple consensus mechanisms
