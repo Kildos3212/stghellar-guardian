@@ -6,3 +6,4 @@
 // Integrate IPFS for storage
 // Improve ERC-721 token metadata functionality
 // Improve security in decentralized applications
+// Integrate Chainlink VRF for randomness
