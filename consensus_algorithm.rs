@@ -3,3 +3,4 @@
 // Add gas optimization features for smart contracts
 // Enhance transaction monitoring
 // Improve contract execution performance
+// Add slashing mechanism for malicious actors
