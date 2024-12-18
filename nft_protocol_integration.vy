@@ -2,3 +2,4 @@
 // Update smart contract tests
 // Optimize state channels for faster transactions
 // Optimize contract storage for gas reduction
+// Implement decentralized arbitration in contracts
