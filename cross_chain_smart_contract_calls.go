@@ -3,3 +3,4 @@
 // Optimize contract storage for gas reduction
 // Improve error handling in transaction flow
 // Add support for multiple consensus mechanisms
+// Add support for ERC-721A tokens
