@@ -13,3 +13,4 @@
 // Fix race condition in staking pool
 // Improve gas estimation for transactions
 // Implement reward distribution feature
+// Refactor decentralized governance structure
