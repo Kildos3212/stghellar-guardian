@@ -6,3 +6,4 @@
 // Improve decentralized identity (DID) systems
 // Implement automated governance voting
 // Refactor governance proposal logic
+// Improve DApp transaction flow
