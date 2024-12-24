@@ -9,3 +9,4 @@
 // Optimize hashing algorithm
 // Add support for Layer-2 solutions
 // Fix overflow bug in token calculation
+// Fix oracle data delays in decentralized apps
