@@ -4,3 +4,4 @@
 // Integrate Chainlink oracles
 // Improve DApp transaction flow
 // Implement delegation pattern
+// Optimize storage for off-chain data
