@@ -2,3 +2,4 @@
 // Improve staking and yield farming logic
 // Improve decentralized oracle protocols
 // Refactor voting mechanism
+// Refactor decentralized storage system
