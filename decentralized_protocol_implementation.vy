@@ -4,3 +4,4 @@
 // Refactor validator reward system
 // Refactor multi-asset token management
 // Fix bug in random number generation
+// Integrate with external DeFi protocols
