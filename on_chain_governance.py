@@ -3,3 +3,4 @@
 // Fix compatibility with MetaMask
 // Optimize token minting flow
 // Add support for decentralized lending platforms
+// Implement price feed oracles for tokens
