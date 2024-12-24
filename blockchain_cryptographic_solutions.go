@@ -3,3 +3,4 @@
 // Refactor governance token logic
 // Fix issues with ERC-20 token approvals
 // Optimize oracle data fetching mechanism
+// Fix issues with ERC-20 token approvals
