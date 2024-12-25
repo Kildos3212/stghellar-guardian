@@ -4,3 +4,4 @@
 // Fix compatibility issues with major wallets
 // Fix issue with multi-chain transactions
 // Refactor smart contract testing framework
+// Refactor staking logic
