@@ -5,3 +5,4 @@
 // Enhance privacy features using zk-STARKs
 // Integrate zk-rollups for scaling
 // Fix compatibility with MetaMask
+// Refactor contract to use EIP-712 signatures
