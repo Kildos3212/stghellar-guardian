@@ -7,3 +7,4 @@
 // Fix bug in random number generation
 // Add support for yield farming rewards
 // Add multi-sig wallet functionality
+// Improve decentralized identity (DID) systems
