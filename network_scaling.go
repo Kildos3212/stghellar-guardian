@@ -8,3 +8,4 @@
 // Improve decentralized lending contract flexibility
 // Improve gas estimation for transactions
 // Add fallback mechanism in Solidity contract
+// Fix type mismatch in Haskell smart contract
