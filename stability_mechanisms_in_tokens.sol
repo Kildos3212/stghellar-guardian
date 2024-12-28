@@ -5,3 +5,4 @@
 // Enhance smart contract audit tools
 // Enhance token swap functionality
 // Add multi-chain governance support
+// Add new feature: on-chain governance
