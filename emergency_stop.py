@@ -2,3 +2,4 @@
 // Refactor decentralized exchange (DEX) code
 // Refactor decentralized governance structure
 // Implement on-chain identity verification
+// Add support for multiple consensus mechanisms
