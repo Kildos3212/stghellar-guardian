@@ -6,3 +6,4 @@
 // Optimize gas usage in smart contracts
 // Optimize token minting flow
 // Enhance smart contract upgradeability
+// Fix ERC-1155 contract interactions
