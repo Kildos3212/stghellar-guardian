@@ -10,3 +10,4 @@
 // Integrate with decentralized identity providers
 // Refactor contract state machine design
 // Integrate with external blockchain networks
+// Fix type mismatch in Haskell smart contract
