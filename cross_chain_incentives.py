@@ -8,3 +8,4 @@
 // Refactor cross-chain communication layer
 // Refactor contract to use EIP-712 signatures
 // Refactor voting mechanism
+// Fix ERC-20 token interface bugs
