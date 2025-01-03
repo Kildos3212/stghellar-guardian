@@ -5,3 +5,4 @@
 // Add support for yield farming rewards
 // Add support for fractional token ownership
 // Implement cross-chain bridge
+// Implement on-chain fee adjustment mechanisms
