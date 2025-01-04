@@ -5,3 +5,4 @@
 // Implement on-chain identity verification
 // Fix interoperability issues with other blockchains
 // Refactor oracle interaction logic
+// Integrate Chainlink oracles for price data
