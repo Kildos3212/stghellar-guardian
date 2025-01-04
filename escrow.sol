@@ -7,3 +7,4 @@
 // Implement on-chain identity verification
 // Optimize gas usage in smart contracts
 // Improve contract execution speed
+// Refactor incentive structure in DeFi protocol
