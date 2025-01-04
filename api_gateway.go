@@ -5,3 +5,4 @@
 // Enhance privacy features using zk-STARKs
 // Improve token burning mechanism
 // Add support for decentralized insurance protocols
+// Code cleanup and documentation update
