@@ -11,3 +11,4 @@
 // Improve multi-chain contract deployment
 // Optimize decentralized oracle performance
 // Optimize WASM compilation for Go contracts
+// Improve token burning mechanism
