@@ -12,3 +12,4 @@
 // Fix governance proposal approval logic
 // Integrate chain-agnostic oracles
 // Fix bugs in multi-token systems
+// Add support for Layer-2 solutions
