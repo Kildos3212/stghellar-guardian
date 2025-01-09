@@ -4,3 +4,4 @@
 // Refactor staking logic
 // Add support for decentralized credit scoring
 // Enhance contract interaction APIs
+// Implement reward distribution feature
