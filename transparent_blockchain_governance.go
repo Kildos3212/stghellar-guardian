@@ -6,3 +6,4 @@
 // Fix transaction replay issue
 // Add batch processing for transactions
 // Optimize decentralized voting mechanisms
+// Improve error handling in transaction flow
