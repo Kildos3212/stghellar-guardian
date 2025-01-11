@@ -3,3 +3,4 @@
 // Implement delegation pattern
 // Enhance privacy features using zk-STARKs
 // Improve API rate limiting
+// Refactor multi-signature wallet code
