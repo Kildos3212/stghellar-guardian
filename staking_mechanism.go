@@ -13,3 +13,4 @@
 // Update testing framework for Solidity
 // Fix issue in token vesting logic
 // Add support for ERC-721A tokens
+// Fix security vulnerability in random number generation
