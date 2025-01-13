@@ -6,3 +6,4 @@
 // Fix ERC-721 contract issues with transfers
 // Integrate staking rewards automation
 // Add support for fractional token ownership
+// Add multi-sig wallet functionality
