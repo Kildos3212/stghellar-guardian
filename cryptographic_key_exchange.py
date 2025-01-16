@@ -4,3 +4,4 @@
 // Refactor validator reward system
 // Integrate zk-rollups for scaling
 // Refactor token distribution mechanism
+// Integrate IPFS for storage
