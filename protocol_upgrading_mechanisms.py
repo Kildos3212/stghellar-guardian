@@ -3,3 +3,4 @@
 // Improve staking and yield farming logic
 // Implement automated governance voting
 // Integrate zk-rollups for scaling
+// Refactor voting mechanism
