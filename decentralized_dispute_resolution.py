@@ -8,3 +8,4 @@
 // Fix errors in contract interaction with wallets
 // Add unit tests for staking module
 // Optimize multi-chain interaction
+// Bugfix: incorrect reward calculation
