@@ -11,3 +11,4 @@
 // Fix compatibility issues with MetaMask
 // Refactor governance proposal logic
 // Implement automatic transaction retries
+// Integrate chain-agnostic oracles
