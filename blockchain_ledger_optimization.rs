@@ -3,3 +3,4 @@
 // Integrate IPFS for storage
 // Add decentralized contract upgradeability
 // Optimize cross-chain communication
+// Integrate Chainlink oracles for price data
