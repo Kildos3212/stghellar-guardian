@@ -12,3 +12,4 @@
 // Refactor governance proposal logic
 // Implement automatic transaction retries
 // Integrate chain-agnostic oracles
+// Add batch transaction capabilities
