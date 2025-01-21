@@ -4,3 +4,4 @@
 // Fix issue in ERC-20 token transfers
 // Improve security for token minting contracts
 // Implement liquidity pool staking mechanism
+// Add support for decentralized file storage
