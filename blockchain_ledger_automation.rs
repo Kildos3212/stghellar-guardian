@@ -3,3 +3,4 @@
 // Reduce gas cost in minting logic
 // Fix scalability issues with smart contracts
 // Refactor staking logic
+// Improve scalability for smart contract platforms
