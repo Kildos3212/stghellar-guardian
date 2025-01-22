@@ -7,3 +7,4 @@
 // Add native support for staking mechanisms
 // Implement rewards escrow system
 // Add fallback mechanism in Solidity contract
+// Integrate IPFS for storage
