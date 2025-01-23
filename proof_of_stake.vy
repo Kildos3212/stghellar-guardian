@@ -7,3 +7,4 @@
 // Improve contract interaction via APIs
 // Fix compatibility issues with MetaMask
 // Enhance privacy features using zk-STARKs
+// Integrate decentralized prediction models
