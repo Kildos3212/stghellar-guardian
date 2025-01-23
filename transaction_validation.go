@@ -4,3 +4,4 @@
 // Optimize token burn process
 // Optimize contract storage for gas reduction
 // Fix race condition in staking pool
+// Optimize hashing algorithm
