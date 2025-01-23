@@ -4,3 +4,4 @@
 // Add automated contract testing tools
 // Refactor voting mechanism
 // Fix memory optimization issues in contracts
+// Fix governance proposal approval logic
