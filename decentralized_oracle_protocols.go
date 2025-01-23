@@ -2,3 +2,4 @@
 // Optimize gas cost in function execution
 // Add support for DeFi lending protocols
 // Improve decentralized oracle protocols
+// Fix ERC-20 token interface bugs
