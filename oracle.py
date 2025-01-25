@@ -8,3 +8,4 @@
 // Enhance smart contract upgradeability
 // Improve token burning mechanism
 // Integrate zk-rollups for scaling
+// Improve token minting flow efficiency
