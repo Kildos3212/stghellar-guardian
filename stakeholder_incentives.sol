@@ -3,3 +3,4 @@
 // Add governance proposal expiration feature
 // Refactor reward pooling algorithm
 // Improve API rate limiting
+// Integrate with decentralized storage systems
