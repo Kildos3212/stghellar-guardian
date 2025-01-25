@@ -5,3 +5,4 @@
 // Add support for cross-chain bridges
 // Optimize token burn process
 // Refactor contract to use EIP-712 signatures
+// Enhance cryptographic primitives in contracts
