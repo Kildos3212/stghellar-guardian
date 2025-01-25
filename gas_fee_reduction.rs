@@ -6,3 +6,4 @@
 // Refactor voting mechanism
 // Update smart contract tests
 // Improve multi-chain transaction processing
+// Refactor multi-signature wallet code
