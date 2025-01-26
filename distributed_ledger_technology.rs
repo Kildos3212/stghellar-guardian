@@ -6,3 +6,4 @@
 // Enhance developer documentation
 // Optimize decentralized application performance
 // Fix edge case in unstaking logic
+// Fix issues with token vesting contracts
