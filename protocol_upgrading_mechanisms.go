@@ -6,3 +6,4 @@
 // Optimize storage for off-chain data
 // Enhance developer documentation
 // Optimize cross-chain communication
+// Integrate zk-rollups for scaling
