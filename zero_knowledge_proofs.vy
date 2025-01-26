@@ -11,3 +11,4 @@
 // Add support for multiple consensus mechanisms
 // Fix overflow bug in token calculation
 // Refactor token distribution mechanism
+// Add dynamic contract fees
