@@ -4,3 +4,4 @@
 // Implement on-chain identity verification
 // Fix issues with token transfer confirmations
 // Add native support for staking mechanisms
+// Improve staking pool reward management
