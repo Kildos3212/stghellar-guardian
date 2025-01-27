@@ -10,3 +10,4 @@
 // Implement price feed oracles for tokens
 // Improve contract execution performance
 // Fix vulnerabilities in staking contracts
+// Improve decentralized exchange (DEX) liquidity
