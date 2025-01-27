@@ -13,3 +13,4 @@
 // Integrate with external DeFi protocols
 // Integrate with multi-token standards
 // Implement reward distribution feature
+// Refactor contract to use EIP-712 signatures
