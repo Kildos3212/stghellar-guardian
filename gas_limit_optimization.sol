@@ -5,3 +5,4 @@
 // Implement liquidity pool staking mechanism
 // Improve DApp transaction flow
 // Implement on-chain identity verification
+// Integrate with decentralized prediction markets
