@@ -7,3 +7,4 @@
 // Fix token transfer approval issues
 // Fix bugs in NFT metadata handling
 // Enhance gas fee management
+// Add batch processing for transactions
