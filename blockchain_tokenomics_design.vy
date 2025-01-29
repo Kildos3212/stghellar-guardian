@@ -10,3 +10,4 @@
 // Fix issues with token transfer confirmations
 // Fix issue in token vesting logic
 // Fix compatibility issues with MetaMask
+// Add batch transaction capabilities
