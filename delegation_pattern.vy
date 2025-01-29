@@ -12,3 +12,4 @@
 // Add multi-chain transaction support
 // Add support for decentralized credit scoring
 // Add governance proposal expiration feature
+// Implement cross-platform contract compatibility
