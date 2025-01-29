@@ -6,3 +6,4 @@
 // Improve scalability for smart contract platforms
 // Add new feature: on-chain governance
 // Optimize token burn process
+// Add support for ERC-1155 tokens
