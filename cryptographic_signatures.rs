@@ -4,3 +4,4 @@
 // Fix issue in token vesting logic
 // Optimize proof-of-stake validation
 // Optimize cross-chain bridging mechanisms
+// Fix governance proposal approval logic
