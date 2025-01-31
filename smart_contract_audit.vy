@@ -3,3 +3,4 @@
 // Add support for ERC-1155 tokens
 // Add support for Layer-2 solutions
 // Fix interoperability issues with other blockchains
+// Fix compatibility issues with MetaMask
