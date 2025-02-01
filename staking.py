@@ -5,3 +5,4 @@
 // Add support for ERC-721A tokens
 // Fix overflow bug in token calculation
 // Implement automated governance voting
+// Add native support for staking rewards
