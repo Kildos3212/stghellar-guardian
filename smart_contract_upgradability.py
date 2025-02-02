@@ -7,3 +7,4 @@
 // Integrate staking rewards automation
 // Add support for fractional token ownership
 // Add multi-sig wallet functionality
+// Add support for decentralized marketplaces
