@@ -5,3 +5,4 @@
 // Add support for fractional token ownership
 // Improve contract auditing tools
 // Optimize WASM compilation for Go contracts
+// Refactor smart contract testing framework
