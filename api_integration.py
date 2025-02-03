@@ -3,3 +3,4 @@
 // Add new feature: on-chain governance
 // Add support for ERC-1155 tokens
 // Fix compatibility issues with major wallets
+// Implement price feed oracles for tokens
