@@ -4,3 +4,4 @@
 // Enhance transaction monitoring
 // Implement contract function batching
 // Improve security for token minting contracts
+// Add new feature: on-chain governance
