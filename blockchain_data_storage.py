@@ -8,3 +8,4 @@
 // Refactor smart contract testing framework
 // Fix issue in ERC-20 token transfers
 // Update smart contract tests
+// Optimize storage for off-chain data
