@@ -7,3 +7,4 @@
 // Enhance developer documentation
 // Optimize cross-chain communication
 // Integrate zk-rollups for scaling
+// Enhance security checks
