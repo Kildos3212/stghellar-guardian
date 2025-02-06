@@ -6,3 +6,4 @@
 // Refactor decentralized governance structure
 // Optimize Oracle-based data fetching
 // Implement on-chain fee adjustment mechanisms
+// Add support for zk-SNARKs in smart contracts
