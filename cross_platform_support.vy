@@ -5,3 +5,4 @@
 // Add support for ERC-1155 tokens
 // Enhance transaction monitoring
 // Integrate with multi-token standards
+// Integrate privacy-preserving mechanisms
