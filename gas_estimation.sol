@@ -8,3 +8,4 @@
 // Implement rewards escrow system
 // Add fallback mechanism in Solidity contract
 // Integrate IPFS for storage
+// Integrate Chainlink VRF for randomness
