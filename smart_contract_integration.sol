@@ -5,3 +5,4 @@
 // Add governance proposal expiration feature
 // Add support for decentralized credit scoring
 // Add support for zk-SNARKs in smart contracts
+// Bugfix: incorrect reward calculation
