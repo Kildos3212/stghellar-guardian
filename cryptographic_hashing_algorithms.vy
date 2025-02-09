@@ -3,3 +3,4 @@
 // Implement delegation pattern
 // Add support for ERC-721A tokens
 // Enhance smart contract upgradeability
+// Fix vulnerability in decentralized finance protocols
