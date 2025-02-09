@@ -3,3 +3,4 @@
 // Fix errors in NFT minting logic
 // Refactor governance proposal logic
 // Refactor decentralized storage system
+// Enhance contract upgrade process
