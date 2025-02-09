@@ -4,3 +4,4 @@
 // Integrate decentralized anonymous identity systems
 // Enhance contract upgrade process
 // Fix bugs in decentralized exchange routing
+// Enhance privacy features using zk-STARKs
