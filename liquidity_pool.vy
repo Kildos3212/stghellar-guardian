@@ -5,3 +5,4 @@
 // Fix issues with token transfer confirmations
 // Add support for decentralized content distribution
 // Integrate Chainlink oracles for price data
+// Improve error handling in transaction flow
