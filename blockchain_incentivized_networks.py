@@ -4,3 +4,4 @@
 // Refactor multi-asset token management
 // Enhance off-chain data processing
 // Fix compatibility with MetaMask
+// Add multi-sig wallet functionality
