@@ -16,3 +16,4 @@
 // Add support for multiple consensus mechanisms
 // Fix wallet interaction issues in DeFi protocols
 // Fix deserialization bug in Haskell code
+// Enhance cryptographic primitives in contracts
