@@ -8,3 +8,4 @@
 // Improve cross-chain asset management
 // Fix contract reentrancy issues
 // Enhance contract upgrade process
+// Fix bugs in NFT metadata handling
