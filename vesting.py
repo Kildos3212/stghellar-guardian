@@ -10,3 +10,4 @@
 // Fix issues with cross-chain transaction finality
 // Improve contract interaction via APIs
 // Fix data consistency issues in smart contracts
+// Integrate chain-agnostic oracles
