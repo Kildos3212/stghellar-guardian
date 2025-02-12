@@ -3,3 +3,4 @@
 // Fix issues with token vesting contracts
 // Implement rewards escrow system
 // Implement a new contract event system
+// Add support for yield farming rewards
