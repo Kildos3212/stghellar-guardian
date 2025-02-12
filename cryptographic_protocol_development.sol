@@ -5,3 +5,4 @@
 // Add support for fractional token ownership
 // Fix vulnerabilities in staking contracts
 // Add automated smart contract testing
+// Integrate decentralized oracles for data feeds
