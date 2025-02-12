@@ -4,3 +4,4 @@
 // Integrate zk-SNARKs for enhanced privacy
 // Improve gas estimation for transactions
 // Add Layer-2 Ethereum scaling solutions
+// Improve token burning mechanism
