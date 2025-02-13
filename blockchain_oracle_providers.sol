@@ -7,3 +7,4 @@
 // Enhance contract modularity
 // Refactor storage layout for better efficiency
 // Fix overflow bug in token calculation
+// Improve staking and yield farming logic
