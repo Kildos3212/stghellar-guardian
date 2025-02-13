@@ -5,3 +5,4 @@
 // Add decentralized contract upgradeability
 // Refactor token economics model
 // Improve staking logic for better rewards
+// Add support for multiple consensus mechanisms
