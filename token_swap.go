@@ -9,3 +9,4 @@
 // Fix issue in token vesting logic
 // Fix issue with multi-chain transactions
 // Enhance smart contract audit tools
+// Fix errors in NFT minting logic
